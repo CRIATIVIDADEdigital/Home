@@ -13,13 +13,13 @@ valoriza a capacidade de cada um
 de nós em ser criador e não só um
 consumidor de tecnologia.'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/vcmaker.png
+    alt: "logo vcmaker"
+    title: "VC.Maker"
+    excerpt: "Espaço dedicado para os Professores e alunos acessarem os conteúdos das aulas."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "VC.Maker"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive Layouts"
