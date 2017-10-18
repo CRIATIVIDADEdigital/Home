@@ -17,7 +17,7 @@ feature_row:
     alt: "logo vcmaker"
     title: "VC.Maker"
     excerpt: "Espaço dedicado aos alunos e professores participantes do VC.Maker edição 2018."
-    url: "/docs/configuration/"
+    url: "/aula01/"
     btn_class: "btn--primary"
     btn_label: "Abrir Aulas"
   - image_path: /assets/images/mm-responsive-feature.png
