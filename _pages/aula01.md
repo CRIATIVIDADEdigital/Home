@@ -1,6 +1,6 @@
 ---
-title: "Quick-Start Guide"
-permalink: /docs/quick-start-guide/
+title: "Aula 1"
+permalink: /aula01/
 excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 last_modified_at: 2017-09-21T16:24:15-04:00
 redirect_from:
