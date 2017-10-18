@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "pt"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "Your Name"
