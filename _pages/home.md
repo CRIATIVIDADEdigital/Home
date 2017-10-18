@@ -16,10 +16,10 @@ feature_row:
   - image_path: /assets/images/vcmaker.png
     alt: "logo vcmaker"
     title: "VC.Maker"
-    excerpt: "Espaço dedicado para os Professores e alunos acessarem os conteúdos das aulas."
+    excerpt: "Espaço dedicado para aos alunos e professores participantes do VC.Maker."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "VC.Maker"
+    btn_label: "Abrir Aulas"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive Layouts"
