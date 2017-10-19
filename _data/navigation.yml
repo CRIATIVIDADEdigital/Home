@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "VC.Maker"
-    url: /aula01/
+    url: /docs/aula01A/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# documentation links
+docs:
+  - title: Aula 1 - Subtraindo cores
+    children:
+      - title: "Qual a brincadeira de hoje?"
+        url: /docs/aula01A/
+      - title: "Gira-gira"
+        url: /docs/gira-gira/
+      - title: "Gira-gira de barbante"
+        url: /docs/gira-gira-barbante/
+      - title: "Super pião"
+        url: /docs/super-piao/
+      - title: "Cores e padrões"
+        url: /docs/aula01B/
+
+  - title: Aula 2 - Somando cores
