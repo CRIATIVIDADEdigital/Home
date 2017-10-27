@@ -10,6 +10,8 @@ permalink: /privacidade.html
 Política de Privacidade do CRIATIVIDADE.digital
 Este Aplicativo recolhe alguns Dados Pessoais dos Usuários.
 
+{% include toc %}
+
 ## Tipos de Dados coletados
 Entre os tipos de Dados Pessoais que este Aplicativo recolhe, por si só ou por meio terceiros, estão: Cookie e Dados de Uso.
 Detalhes completos sobre cada tipo de Dados Pessoais coletados são fornecidos nas seções dedicadas desta política de privacidade ou por textos explicativos específicos exibidos antes da coleta de Dados.
