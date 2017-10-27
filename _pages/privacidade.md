@@ -2,6 +2,8 @@
 title: "Política de Privacidade do CRIATIVIDADE.digital"
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
+layout: default
+author_profile: false
 permalink: /privacidade.html
 ---
 
