@@ -1,6 +1,6 @@
 ---
-title: "Política de Privacidade do CRIATIVIDADE.digital"
-excerpt: "Política de Privacidade do CRIATIVIDADE.digital"
+title: "Termos de uso do CRIATIVIDADE.digital"
+excerpt: "Termos de uso do CRIATIVIDADE.digital"
 sitemap: false
 author_profile: false
 permalink: /termos.html
