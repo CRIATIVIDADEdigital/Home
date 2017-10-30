@@ -5,14 +5,12 @@ excerpt: "Passo a passo para a construção de super pião."
 last_modified_at: 2017-10-18T16:24:15-04:00
 ---
 
-ESTE DOCUMENTO ESTÁ EM CONSTRUÇÃO
-
 {% include toc %}
 
-## Passo 1
+**Nota do autor:** ESTE DOCUMENTO ESTÁ EM CONSTRUÇÃO. Os vídeos abaixo ainda estão em sua versão de teste
+{: .notice--danger}
 
-Passo 1
+{% include youtubePlayer.html id="TmerQqheSH8" %}
 
-## Passo 2
 
-Passo 2
+
