@@ -5,7 +5,7 @@ sitemap: false
 author_profile: false
 permalink: /experimento/0001/
 ---
-![Mini luminaria emoticon fantasma](/assets/experimentos/0001/thumb.png)
+![Mini luminaria emoticon fantasma](/assets/experimentos/0001/thumb.jpg)
 
 Material
 4 Copinhos descartáveis 50 ml 
