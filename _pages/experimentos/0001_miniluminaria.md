@@ -7,13 +7,14 @@ permalink: /experimento/0001/
 ---
 ![Mini luminaria emoticon fantasma](/assets/experimentos/0001/thumb.jpg)
 
-Material
-4 Copinhos descartáveis 50 ml 
-Importante: utilize os que têm ranhuras horizontais para facilitar o desenho.
-1 Caneta permanente para tecido e plástico preta
-4 LEDs coloridos alto brilho 3mm
-4 baterias
-Durex ou fita dupla face
+## Material
+* 4 Copinhos descartáveis 50 ml 
+ * Importante: utilize os que têm ranhuras horizontais para facilitar o desenho.
+* 1 Caneta permanente para tecido e plástico preta
+* 4 LEDs coloridos alto brilho 3mm
+* 4 baterias
+* Durex ou fita dupla face
+* Tesoura
 
 Com o material em mãos, assista ao vídeo e coloque mãos à obra!
 Vídeo tutorial (como fazer)
