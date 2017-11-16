@@ -3,7 +3,7 @@ title: "Mini luminaria EMOTICON fantasma"
 excerpt: "Confira o passo a passo de como construir estas mini luminárias com LEDs."
 sitemap: false
 author_profile: false
-permalink: /experimento/0001
+permalink: /experimento/0001/
 ---
 ![Mini luminaria emoticon fantasma](/assets/experimentos/0001/thumb.png)
 
