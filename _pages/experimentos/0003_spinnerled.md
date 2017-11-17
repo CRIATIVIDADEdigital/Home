@@ -29,6 +29,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 {% include youtubePlayer.html id="m2I0ySh-1Yc" %}
 
 ## Lembretes
+* A perna mais comprida do LED fica ligada ao polo marcado como + (positivo) na bateria.
 * Prefira o uso de LEDs com alto brilho.
 
 ## Vá mais longe
