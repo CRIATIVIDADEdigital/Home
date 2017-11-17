@@ -23,7 +23,7 @@ permalink: /experimento/0003/
 ## Passo a passo
 Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 
-**Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seu óculos de proteção. :sunglasses:
+**Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seus óculos de proteção. :sunglasses:
 {: .notice--danger}
 
 {% include youtubePlayer.html id="m2I0ySh-1Yc" %}
