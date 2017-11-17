@@ -1,5 +1,5 @@
 ---
-title: "Mini luminaria EMOTICON fantasma"
+title: "Mini luminária EMOTICON fantasma"
 excerpt: "Confira o passo a passo de como construir estas mini luminárias com LEDs."
 sitemap: false
 author_profile: false
