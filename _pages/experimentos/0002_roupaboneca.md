@@ -10,7 +10,7 @@ permalink: /experimento/0002/
 {% include toc %}
 
 ## Material
-* 1 filtro de café de papel número 103 (Tipo Melitta).
+* 1 filtro de café de papel número 103 (tipo Melitta).
 * 1 bateria 3V (tipo moeda).
 * 1 lâmpada de LED alto brilho (5 mm) da cor de sua preferência. 
 * Tesoura.
