@@ -27,7 +27,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 * Prefira copinhos lisos ou com ranhuras horizontais para facilitar o desenho.
 * A mini luminária fica melhor se os LEDs forem de alto brilho.
 
-## Vá mais longe:
+## Vá mais longe
 * Faça vários emoticons diferentes, use a imaginação.
 * Utilize LEDs de diversas cores, misture cores. 
 * Você pode usar mais de uma bateria em cada copinho.
