@@ -15,8 +15,8 @@ permalink: /experimento/0003/
 * 1 tampa de garrafa plástica
 * 2 folhas de papel A4
 * 4 baterias 3V (tipo moeda)
-* 2 lâmpadas LED vermelhas - alto brilho 3 mm
-* 2 lâmpadas LED azuis - alto brilho 3 mm
+* 2 lâmpadas LED vermelhas - alto brilho 5 mm
+* 2 lâmpadas LED azuis - alto brilho 5 mm
 * Cola quente
 * Tesoura 
 
