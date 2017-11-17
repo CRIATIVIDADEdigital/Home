@@ -10,15 +10,15 @@ permalink: /experimento/0003/
 {% include toc %}
 
 ## Material
-* 1 CD ou DVD (reutilizado)
-* 1 bola de gude
-* 1 tampa de garrafa plástica
-* 2 folhas de papel A4
-* 4 baterias 3V (tipo moeda)
-* 2 lâmpadas LED vermelhas - alto brilho 5 mm
-* 2 lâmpadas LED azuis - alto brilho 5 mm
-* Cola quente
-* Tesoura 
+* 1 CD ou DVD (reutilizado).
+* 1 bola de gude.
+* 1 tampa de garrafa plástica.
+* 2 folhas de papel A4.
+* 4 baterias 3V (tipo moeda).
+* 2 lâmpadas LED vermelhas - alto brilho 5 mm.
+* 2 lâmpadas LED azuis - alto brilho 5 mm.
+* Cola quente.
+* Tesoura.
 
 ## Passo a passo
 Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:

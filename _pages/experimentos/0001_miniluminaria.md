@@ -10,13 +10,13 @@ permalink: /experimento/0001/
 {% include toc %}
 
 ## Material
-* 4 Copinhos descartáveis 50 ml 
+* 4 Copinhos descartáveis 50 ml. 
   * :exclamation: Utilize os que têm ranhuras horizontais para facilitar o desenho.
-* 1 Caneta permanente para tecido e plástico preta
-* 4 LEDs coloridos alto brilho 5mm
-* 4 baterias
-* Durex ou fita dupla face
-* Tesoura
+* 1 Caneta permanente para plástico preta.
+* 4 LEDs coloridos alto brilho 5mm.
+* 4 baterias.
+* Durex ou fita dupla face.
+* Tesoura.
 
 ## Passo a passo
 Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
