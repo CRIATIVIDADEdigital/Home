@@ -21,7 +21,7 @@ permalink: /experimento/0002/
 
 ## Passo a passo
 Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
-{% include youtubePlayer.html id="-c04RWjgoZ0" %}
+{% include youtubePlayer.html id="39pwUItQYfU" %}
 
 ## Lembretes
 * A perna mais comprida do LED fica ligada ao polo marcado como + (positivo) na bateria.
