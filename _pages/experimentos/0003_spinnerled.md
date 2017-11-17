@@ -35,7 +35,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 ## Vá mais longe
 * Misture os LEDs para criar novas cores. 
   * Para um efeito laranjado, experimente usar lâmpadas LED vermelhas com verde.
-* Você pode baixar o aplicativo "Draw and Spin" no celular e tentar misturar cores e padrões diferentes antes de criar o seu Spinner físico. 
+* Você pode baixar o aplicativo "Draw and Spin" no celular e tentar misturar cores e padrões diferentes antes de criar o seu "Spinner" físico. 
 
 
 
