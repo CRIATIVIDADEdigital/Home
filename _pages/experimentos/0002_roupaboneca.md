@@ -2,6 +2,8 @@
 title: "Vestido para boneca + broche LED"
 excerpt: "Veja o passo a passo de como montar um vestido para bonecas com broche iluminado por LED."
 sitemap: false
+header: 
+  teaser: "/assets/experimentos/0002/thumb.jpg" 
 author_profile: false
 permalink: /experimento/0002/
 ---

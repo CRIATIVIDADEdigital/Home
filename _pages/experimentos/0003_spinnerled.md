@@ -2,6 +2,8 @@
 title: "Spinner LED"
 excerpt: "Conheça uma outra forma de construir um 'spinner'."
 sitemap: false
+header: 
+  teaser: "/assets/experimentos/0003/thumb.jpg" 
 author_profile: false
 permalink: /experimento/0003/
 ---
