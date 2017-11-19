@@ -2,7 +2,7 @@
 title: "Mini luminária EMOTICON fantasma"
 excerpt: "Confira o passo a passo de como construir estas mini luminárias com LEDs."
 sitemap: false
-header.image: "http://criatividade.digital/assets/experimentos/0001/thumb.jpg" 
+image: "http://criatividade.digital/assets/experimentos/0001/thumb.jpg" 
 author_profile: false
 permalink: /experimento/0001/
 ---
