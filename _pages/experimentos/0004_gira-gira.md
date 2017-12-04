@@ -27,7 +27,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 **Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seus óculos de proteção. :sunglasses:
 {: .notice--danger}
 
-{% include youtubePlayer.html id="m2I0ySh-1Yc" %}
+{% include youtubePlayer.html id="ne-J-8e3ZpE" %}
 
 ## Parte 2
 Já montou o primeiro gira-gira? :sweat_smile:
@@ -37,7 +37,7 @@ Que tal experimentarmos a mistura de cores? Veja no vídeo como é legal mistura
 {% include youtubePlayer.html id="-Xdel5I8CQQ" %}
 <br>
 
-No vídeo abaixo você consegue ver o passo a passo para construir discos que misturam cores.
+No vídeo abaixo você consegue ver o passo a passo para construir discos que misturam as cores.
 
 {% include youtubePlayer.html id="-Xdel5I8CQQ" %}
 
