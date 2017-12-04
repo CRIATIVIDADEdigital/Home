@@ -18,7 +18,8 @@ permalink: /experimento/0002/
 * Tesoura.
 * Régua.
 * Durex ou fita dupla face.
-* Lápis de cor. 
+* Lápis de cor.
+* Retalhos de pano (estampas pequenas). 
 * 1 boneca Barbie.
 
 ## Passo a passo
