@@ -43,7 +43,7 @@ Que tal experimentarmos a mistura de cores? Veja no vídeo como é legal mistura
 
 No vídeo abaixo você consegue ver o passo a passo para construir um disco para o usar no gira-gira e misturar as cores. :dart:
 
-{% include youtubePlayer.html id="qBgTkTHiSoU" %}
+{% include youtubePlayer.html id="EPV78ov5toI" %}
 
 ## Vá mais longe
 * Arco-íris com massa de modelar :link: (Youtube link externo). [Clique aqui!](https://youtu.be/GAfqaJ7xdRw){:target="_blank"}
