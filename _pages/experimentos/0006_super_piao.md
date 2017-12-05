@@ -31,7 +31,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 **Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seus óculos de proteção. :sunglasses:
 {: .notice--danger}
 
-{% include youtubePlayer.html id="DR5aJuafo28" %}
+{% include youtubePlayer.html id="sAxRPXYBJ_8" %}
 
 ## Parte 2
 Já montou o primeiro super-pião? :sweat_smile:
