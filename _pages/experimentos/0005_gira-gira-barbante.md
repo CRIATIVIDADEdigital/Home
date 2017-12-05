@@ -22,7 +22,7 @@ permalink: /experimento/0005/
 * 1 Tesoura.
 * 1 metro de barbante. 
 * 1 Palito de churrasco.
-* 2 retângulos de papelão (base de apoio para furar).
+* 2 retângulos de papelão ondulado (base de apoio para furar).
 
 ## Passo a passo
 Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:

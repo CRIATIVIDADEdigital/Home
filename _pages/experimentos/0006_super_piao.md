@@ -23,7 +23,7 @@ permalink: /experimento/0006/
 * 45 cm de barbante fino. 
 * 1 Palito de churrasco.
 * 1 embalagem de detergente líquido vazia.
-* 2 retângulos de papelão (base de apoio para furar).
+* 2 retângulos de papelão ondulado (base de apoio para furar).
 
 ## Passo a passo
 Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
