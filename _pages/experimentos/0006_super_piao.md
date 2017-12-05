@@ -17,7 +17,7 @@ permalink: /experimento/0006/
 * Lápis coloridos (azul e amarelo).
 * 1 Régua.
 * 1 Fita adesiva.
-* Papelão (caixa de café, sucrilhos, etc.)
+* Cartolina (ou caixa de café, sucrilhos, etc.)
 * 1 Tesoura.
 * 1 CD ou DVD (reutilizado).
 * 45 cm de barbante fino. 

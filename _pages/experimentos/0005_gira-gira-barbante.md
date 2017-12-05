@@ -18,7 +18,7 @@ permalink: /experimento/0005/
 * Lápis coloridos (preto, vermelho, azul escuro, azul claro, amarelo, verde, laranja e violeta).
 * 1 Régua.
 * 1 Fita adesiva.
-* Papelão (caixa de café, sucrilhos, etc.)
+* Cartolina (ou caixa de café, sucrilhos, etc.)
 * 1 Tesoura.
 * 1 metro de barbante. 
 * 1 Palito de churrasco.
