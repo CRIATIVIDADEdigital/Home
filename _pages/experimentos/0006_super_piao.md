@@ -19,7 +19,6 @@ permalink: /experimento/0006/
 * 1 Fita adesiva.
 * Cartolina (ou caixa de café, sucrilhos, etc.)
 * 1 Tesoura.
-* 1 CD ou DVD (reutilizado).
 * 45 cm de barbante fino. 
 * 1 Palito de churrasco.
 * 1 embalagem de detergente líquido vazia.
