@@ -43,7 +43,7 @@ Que tal experimentarmos a mistura de cores? Veja no vídeo como é legal mistura
 
 ## Vá mais longe
 * Arco-íris com massa de modelar :link: (Youtube link externo). [Clique aqui!](https://youtu.be/GAfqaJ7xdRw){:target="_blank"}
-* Experimente no super-pião outras misturas de cores e padrões. Por exemplo, combine as cores primárias para gerar as cores secundárias. Que tal as cores do seu time ou Pokemon favorito? :stuck_out_tongue: 
+* Experimente no super-pião outras misturas de cores e padrões. Por exemplo, combine as cores primárias para gerar as cores secundárias. Que tal as cores do seu time ou Pokémon favorito? :stuck_out_tongue: 
 * Encontre um espaço liso e plano e faça o seu campeonato. Ganha a rodada o último pião que parar de rodar. :smile: 
 
 
