@@ -30,7 +30,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 **Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seus óculos de proteção. :sunglasses:
 {: .notice--danger}
 
-{% include youtubePlayer.html id="ne-J-8e3ZpE" %}
+{% include youtubePlayer.html id="DR5aJuafo28" %}
 
 ## Parte 2
 Já montou o primeiro gira-gira? :sweat_smile:
