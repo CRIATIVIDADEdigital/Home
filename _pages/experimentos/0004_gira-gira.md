@@ -42,7 +42,7 @@ No vídeo abaixo você consegue ver o passo a passo para construir discos que mi
 {% include youtubePlayer.html id="qBgTkTHiSoU" %}
 
 ## Vá mais longe
-* Arco íris com massa de modelar :link: (Youtube link externo). [Clique aqui!](https://youtu.be/GAfqaJ7xdRw){:target="_blank"}
+* Arco-íris com massa de modelar :link: (Youtube link externo). [Clique aqui!](https://youtu.be/GAfqaJ7xdRw){:target="_blank"}
 * Experimente com outras misturas de cores e padrões. Por exemplo, combine as cores primárias para gerar as cores secundárias.
 * Ilusão de cores (*Fechner color effect* ). 
   * Imprima os discos de Fechner. Você consegue ver as cores enquanto o disco preto e branco gira? :open_mouth: Baixe e imprima [este PDF](/assets/experimentos/0004/Fechner.pdf).
