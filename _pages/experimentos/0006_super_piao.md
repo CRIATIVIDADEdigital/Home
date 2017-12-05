@@ -12,6 +12,7 @@ permalink: /experimento/0006/
 {% include toc %}
 
 ## Material
+* 3 folhas de papel A4.
 * 1 Compasso.
 * 1 Lápis preto.
 * Lápis coloridos (azul e amarelo).

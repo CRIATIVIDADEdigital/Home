@@ -12,6 +12,7 @@ permalink: /experimento/0005/
 {% include toc %}
 
 ## Material
+* 3 folhas de papel A4.
 * 1 Transferidor (360o).
 * 1 Compasso.
 * 1 Lápis preto.
