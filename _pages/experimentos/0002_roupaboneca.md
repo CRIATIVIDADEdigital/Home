@@ -38,10 +38,14 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 * Para o vestido ficar certinho, é importante dobrar o filtro de papel exatamente ao meio, unindo as duas partes dobra com dobra.
 * Para facilitar a colocação do vestido na boneca, você pode abrir um pouco a “costura” do filtro de papel na parte das costas, e depois colar com fita adesiva.
 
+## Parte 2
+Já montou o primeiro vestido? :sweat_smile:
+
+Que tal experimentarmos outras cores de LED e broches? Você pode desenhar outros broches ou recortar detalhes de tecidos. Veja no vídeo abaixo outras ideias para broches. :heart_eyes:
+
+{% include youtubePlayer.html id="CXlt_mcsXo8" %}
+
 ## Vá mais longe
-* Para variar os broches, você pode desenhar flores, estrelas, diamantes, coração e tudo o que sua imaginação criar. 
-* Use, ainda, tecidos estampados recortados para outros modelos de broches.
-* Para colar o broche ao vestido, use fita dupla face ou durex invertido.
-* Crie novos efeitos usando LEDs de várias cores. Experimente misturar cores.
+* Para fazer outros broches você pode, além de variar as estampas, colocar LEDs de outras cores para criar novos efeitos. Experimente!
  
   
