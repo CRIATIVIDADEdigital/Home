@@ -11,13 +11,14 @@ permalink: /experimento/0001/
 
 {% include toc %}
 
-## Material
+## Materiais
+![Materiais para a mini luminaria EMOTICON fantasma](/assets/experimentos/0001/materiais.jpg)
 * 4 Copinhos descartáveis 50 ml. 
   * :exclamation: Utilize os que têm ranhuras horizontais para facilitar o desenho.
 * 1 Caneta permanente para plástico preta.
 * 4 LEDs coloridos alto brilho 5mm.
 * 4 baterias.
-* Durex ou fita dupla face.
+* Fita adesiva.
 * Tesoura.
 
 ## Passo a passo

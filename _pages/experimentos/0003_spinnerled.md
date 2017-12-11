@@ -1,5 +1,5 @@
 ---
-title: "Spinner LED"
+title: "Spinner com LED"
 excerpt: "Conheça uma outra forma de construir um 'spinner'."
 sitemap: false
 header: 
@@ -11,9 +11,11 @@ permalink: /experimento/0003/
 
 {% include toc %}
 
-## Material
+## Materiais
+![Materiais para o Spinner LED](/assets/experimentos/0003/materiais.jpg)
 * 1 CD ou DVD (reutilizado).
 * 1 bola de gude.
+* Fita adesiva.
 * 1 tampa de garrafa plástica.
 * 2 folhas de papel A4.
 * 4 baterias 3V (tipo moeda).
