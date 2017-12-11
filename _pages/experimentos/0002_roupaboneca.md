@@ -13,7 +13,7 @@ permalink: /experimento/0002/
 
 ## Materiais
 ![Materiais para a para boneca + broche LED](/assets/experimentos/0002/materiais.jpg)
-* 1 filtro de café de papel número 103 (tipo Melitta).
+* 2 filtros de café de papel número 103 (tipo Melitta).
 * 1 bateria 3V (tipo moeda).
 * 1 LED alto brilho (5 mm) da cor de sua preferência. 
 * Tesoura.
