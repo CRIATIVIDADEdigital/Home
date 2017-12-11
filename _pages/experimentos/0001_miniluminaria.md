@@ -17,7 +17,7 @@ permalink: /experimento/0001/
   * :exclamation: Utilize os que têm ranhuras horizontais para facilitar o desenho.
 * 1 Caneta permanente para plástico preta.
 * 4 LEDs coloridos alto brilho 5mm.
-* 4 baterias.
+* 4 baterias 3V (tipo moeda)..
 * Fita adesiva.
 * Tesoura.
 
