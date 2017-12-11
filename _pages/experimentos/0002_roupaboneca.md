@@ -36,7 +36,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 * A medida para o corte (cava) da manga: 1,5 cm.
 * A medida da barra até o corte (cava) da manga: 10 cm.
 * Para o vestido ficar certinho, é importante dobrar o filtro de papel exatamente ao meio, unindo as duas partes dobra com dobra.
-* Para facilitar a colocação do vestido na boneca, você pode abrir um pouco a “costura” do filtro de papel na parte das costas, e depois colar com durex.
+* Para facilitar a colocação do vestido na boneca, você pode abrir um pouco a “costura” do filtro de papel na parte das costas, e depois colar com fita adesiva.
 
 ## Vá mais longe
 * Para variar os broches, você pode desenhar flores, estrelas, diamantes, coração e tudo o que sua imaginação criar. 
