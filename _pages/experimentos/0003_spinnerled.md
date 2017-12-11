@@ -36,6 +36,13 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 * A perna mais comprida do LED fica ligada ao polo marcado como + (positivo) na bateria.
 * Prefira o uso de LEDs com alto brilho.
 
+## Parte 2
+Já montou o Spinner LED? :sweat_smile:
+
+Que tal incrementarmos o Spinner com uma capa? O efeito das cores vai ficar mais interessante. Veja no vídeo abaixo como montar a capa para o Spinner. :heart_eyes:
+
+{% include youtubePlayer.html id="8_9xJ_xj9Kk" %}
+
 ## Vá mais longe
 * Misture os LEDs para criar novas cores. 
   * Para um efeito alaranjado, experimente usar lâmpadas LED vermelhas com verde.
