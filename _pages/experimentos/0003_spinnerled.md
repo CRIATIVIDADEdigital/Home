@@ -30,7 +30,7 @@ Com o material em mãos, assista ao vídeo abaixo e mãos à obra! :smile:
 **Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seus óculos de proteção. :sunglasses:
 {: .notice--danger}
 
-{% include youtubePlayer.html id="m2I0ySh-1Yc" %}
+{% include youtubePlayer.html id="tLMYUVr-bwE" %}
 
 ## Lembretes
 * A perna mais comprida do LED fica ligada ao polo marcado como + (positivo) na bateria.
