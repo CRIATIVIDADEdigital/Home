@@ -40,8 +40,9 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 **Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seus óculos de proteção. :sunglasses:
 {: .notice--danger}
 
-1. [Segurança em primeiro lugar!](https://www.youtube.com/watch?v=ooZ5zhHfG4U){:target="_blank"}
-1. [Lista de materiais.](https://youtu.be/ooZ5zhHfG4U?t=6s){:target="_blank"}
+*  [Segurança em primeiro lugar!](https://www.youtube.com/watch?v=ooZ5zhHfG4U){:target="_blank"}
+*  [Confira os materiais necessários.](https://youtu.be/ooZ5zhHfG4U?t=6s){:target="_blank"}
+
 1. Forrar a caixa com o papel A4 preto
    - Base da caixa
      - [Medindo e recortando.](https://youtu.be/ooZ5zhHfG4U?t=33s){:target="_blank"}
