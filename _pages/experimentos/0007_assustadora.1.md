@@ -25,10 +25,10 @@ permalink: /experimento/0007/
 * 1 Cola branca lavável.
 * 1 Tesoura.
 * 1 Rolo de folha de alumínio.
-* 1 Copinho1 descartável 50 ml. 
+* 1 Copinho descartável 50 ml. 
 * 1 LED 5mm da cor azul.
 * 1 Bateria 3V (tipo moeda - CR2032).
-* 1 Tinta guache fluorecente vermelha. 
+* 1 Tinta guache fluorescente vermelha. 
 
 ## Como montar
 Antes de iniciar a montagem, assista todo o vídeo abaixo.
