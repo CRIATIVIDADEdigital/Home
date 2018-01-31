@@ -13,7 +13,7 @@ permalink: /experimento/0007/
 
 ## Material
 ![Materiais para o Spinner LED](/assets/experimentos/0007/materiais.jpg)
-* 4 folha de papel A4 preta.
+* 4 folhas de papel A4 preta.
 * 1 folha de papel A4 branca (pode ser a versão impressa).
 * 1 Lápis branco.
 * 1 Palito de churrasco
