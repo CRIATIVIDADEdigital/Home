@@ -1,7 +1,7 @@
 ---
-title: "Caixa assustadora"
+title: "Caixa Assustadora"
 excerpt: "Veja o passo a passo de como construir uma caixa assutadora com iluminação led."
-sitemap: false
+sitemap: false 
 header: 
   teaser: "/assets/experimentos/0007/thumb.jpg" 
 author_profile: false
@@ -14,7 +14,7 @@ permalink: /experimento/0007/
 ## Material
 ![Materiais para o Spinner LED](/assets/experimentos/0007/materiais.jpg)
 * 4 folhas de papel A4 preta.
-* 1 folha de papel A4 branca (pode ser a versão impressa).
+* Folha impressa com as [imagens](/assets/experimentos/0007/imprimir_assustador.pdf) (pode ser um papel A4 branco para criar seus próprios desenhos).
 * 1 Lápis branco.
 * 1 Palito de churrasco
 * 1 Caneta marca texto amarela.
@@ -72,7 +72,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
      - [Coruja.](https://youtu.be/ooZ5zhHfG4U?t=21m17s){:target="_blank"}
      - [Aranha.](https://youtu.be/ooZ5zhHfG4U?t=21m30s){:target="_blank"}
      - [Abóbora.](https://youtu.be/ooZ5zhHfG4U?t=21m36s){:target="_blank"}
-   - [Recortar.](https://youtu.be/ooZ5zhHfG4U?t=22m55s){:target="_blank"}
+   - [Recortar todos os itens.](https://youtu.be/ooZ5zhHfG4U?t=22m55s){:target="_blank"}
 1. Montando a caixa "assustadora" com somente um item
      - [Colocar a casa e prender com fita adesiva.](https://youtu.be/ooZ5zhHfG4U?t=24m32s){:target="_blank"}
      - [Colocar o refletor e prender com fita adesiva.](https://youtu.be/ooZ5zhHfG4U?t=25m08s){:target="_blank"}
