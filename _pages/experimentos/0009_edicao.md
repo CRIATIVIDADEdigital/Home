@@ -8,7 +8,7 @@ author_profile: false
 permalink: /experimento/0009/
 ---
 
-## Tutorial para edição no VideoPad Video Editor
+## Tutorial para edição no *VideoPad Video Editor*
 1. [Instalação do VideoPad](https://youtu.be/07xxhAx9oiU?t=2m4s){:target="_blank"}
 1. [Carregando/importando os vídeos para edição](https://youtu.be/rRUb7PA4TOg?t=33s){:target="_blank"}
 1. [Edição do vídeo - Incluindo na *Timeline*](https://youtu.be/rRUb7PA4TOg?t=2m19s){:target="_blank"}
