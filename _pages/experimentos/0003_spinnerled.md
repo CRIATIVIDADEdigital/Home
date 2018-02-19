@@ -7,6 +7,8 @@ header:
 author_profile: false
 permalink: /experimento/0003/
 ---
+![Linha separadora](/assets/images/line.jpg)
+
 ![Spinner LED](/assets/experimentos/0003/thumb.jpg)
 
 {% include toc %}
@@ -18,7 +20,7 @@ permalink: /experimento/0003/
 * Fita adesiva.
 * 1 tampa de garrafa plástica.
 * 2 folhas de papel A4.
-* 4 baterias 3V (tipo moeda).
+* 4 baterias 3V (tipo moeda - CR2032).
 * 2 lâmpadas LED vermelhas - alto brilho 5 mm.
 * 2 lâmpadas LED azuis - alto brilho 5 mm.
 * Cola quente.

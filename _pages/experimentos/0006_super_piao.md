@@ -7,6 +7,8 @@ header:
 author_profile: false
 permalink: /experimento/0006/
 ---
+![Linha separadora](/assets/images/line.jpg)
+
 ![Spinner LED](/assets/experimentos/0006/thumb.jpg)
 
 {% include toc %}

@@ -7,6 +7,8 @@ header:
 author_profile: false
 permalink: /experimento/0005/
 ---
+![Linha separadora](/assets/images/line.jpg)
+
 ![Spinner LED](/assets/experimentos/0005/thumb.jpg)
 
 {% include toc %}
@@ -14,7 +16,7 @@ permalink: /experimento/0005/
 ## Material
 ![Materiais para a construção do pião](/assets/experimentos/0005/materiais.jpg)
 * 3 folhas de papel A4.
-* 1 Transferidor (360o).
+* 1 Transferidor (360&deg;).
 * 1 Compasso.
 * 1 Lápis preto.
 * Lápis coloridos (preto, vermelho, azul escuro, azul claro, amarelo, verde, laranja e violeta).

@@ -7,6 +7,7 @@ header:
 author_profile: false
 permalink: /experimento/0009/
 ---
+![Linha separadora](/assets/images/line.jpg)
 
 ## Tutorial para edição no *VideoPad Video Editor*
 1. [Instalação do VideoPad](https://youtu.be/07xxhAx9oiU?t=2m4s){:target="_blank"}

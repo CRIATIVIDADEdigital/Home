@@ -7,6 +7,8 @@ header:
 author_profile: false
 permalink: /experimento/0001/
 ---
+![Linha separadora](/assets/images/line.jpg)
+
 ![Mini luminaria emoticon fantasma](/assets/experimentos/0001/thumb.jpg)
 
 {% include toc %}
@@ -17,7 +19,7 @@ permalink: /experimento/0001/
   * :exclamation: Utilize os que têm ranhuras horizontais para facilitar o desenho.
 * 1 Caneta permanente para plástico preta.
 * 4 LEDs coloridos alto brilho 5mm.
-* 4 baterias 3V (tipo moeda)..
+* 4 baterias 3V (tipo moeda - CR2032).
 * Fita adesiva.
 * Tesoura.
 
