@@ -78,7 +78,7 @@ Que tal experimentarmos a mistura de cores? Veja no vídeo como é legal mistura
 <br>
 
 ## Desafio!!! :collision: :star: :scream_cat:
-Que tal fazer uma competição em sua escola? :mega:
+Que tal fazer uma competição com seus amigos? :mega:
 Ganha o pião que permanecer mais tempo girando! :dizzy: Encontre um espaço liso e plano e faça o seu campeonato!  
 {% include youtubePlayer.html id="bD9C2qaKMb8" %}
 
