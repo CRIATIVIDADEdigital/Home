@@ -14,10 +14,10 @@ permalink: /experimento/0011/
 {% include toc %}
 
 ## Material
-* Peças Lego.
-* Bonecos Lego.
-  - No tutorial usamos: Emma (Lego Friends Emma's workshop); Aurora e coelho (Lego Princesas Bela Adormecida) e Playmobil Figuras - Princesa (6841 Série 10 P3) 
-* 1 Base Lego Classic.
+* Peças LEGO&copy;.
+* Bonecos LEGO&copy;.
+  - No tutorial usamos: Emma (LEGO&copy; Friends Emma's workshop); Aurora e coelho (LEGO&copy; Princesas Bela Adormecida) e Playmobil Figuras - Princesa (6841 Série 10 P3) 
+* 1 Base LEGO&copy; Classic.
   - No tutorial usamos a base azul.
 * 1 Celular ou câmera fotográfica.
   - No tutorial usamos um celular.
@@ -41,9 +41,9 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
    - Registre a ideia do seu roteiro por meio de textos e desenhos.
 1. Preparar o ambiente para a captura das imagens
    - Verifique se a iluminação está adequada para a captura das imagens.
-   - [Fixe a base Lego Classic com fita adesiva.](https://youtu.be/lrBRMGpde6k?t=1m0s){:target="_blank"}
+   - [Fixe a base LEGO&copy; Classic com fita adesiva.](https://youtu.be/lrBRMGpde6k?t=1m0s){:target="_blank"}
    - Posicione e fixe a câmera na frente da base.
-     - [Se estiver usando celular, use as peças Lego e o lenço de papel para fixá-lo na frente da base.](https://youtu.be/lrBRMGpde6k?t=1m43s){:target="_blank"}
+     - [Se estiver usando celular, use as peças LEGO&copy; e o lenço de papel para fixá-lo na frente da base.](https://youtu.be/lrBRMGpde6k?t=1m43s){:target="_blank"}
    - Organize os objetos na cena.
    - Capture algumas imagens para verificar se está tudo pronto.
 1. [Capturar cada um dos quadros da sua animação.](https://youtu.be/lrBRMGpde6k?t=2m54s){:target="_blank"}
