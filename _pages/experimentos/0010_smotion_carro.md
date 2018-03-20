@@ -38,8 +38,12 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. Preparar o ambiente para a captura das imagens
    - Verifique se a iluminação está adequada para a captura das imagens.
    - Organize os objetos na cena.
-   - Posicione a câmera e capture algumas imagens para verificar se está tudo pronto.
+   - Capture algumas imagens para verificar se está tudo pronto.
+     - Observe se a imagem está capturando toda a cena.
+     - Observe se a imagem não está incluindo objetos que não fazem parte do filme.
+     - Observe se as fotos estão nítidas (foco da câmera).
 1. [Capturar cada um dos quadros da sua animação.](https://youtu.be/gTiBk9UxwPo?t=30s){:target="_blank"}
+   - Não esqueça de movimentar a câmera conforme o posicionamento dos carrinhos.
 1. Transferir as fotos do dispositivo para um pasta específica no computador.
 1. Excluir da pasta do computador as fotos que foram tiradas para teste ou que não serão usadas.
 1. [Importar as fotos para o software de edição de vídeo.](https://youtu.be/gTiBk9UxwPo?t=3m47s){:target="_blank"}

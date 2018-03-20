@@ -46,6 +46,9 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
      - [Se estiver usando celular, use as peças LEGO&copy; e o lenço de papel para fixá-lo na frente da base.](https://youtu.be/lrBRMGpde6k?t=1m43s){:target="_blank"}
    - Organize os objetos na cena.
    - Capture algumas imagens para verificar se está tudo pronto.
+     - Observe se a imagem está capturando toda a cena.
+     - Observe se a imagem não está incluindo objetos que não fazem parte do filme.
+     - Observe se as fotos estão nítidas (foco da câmera).
 1. [Capturar cada um dos quadros da sua animação.](https://youtu.be/lrBRMGpde6k?t=2m54s){:target="_blank"}
 1. Transferir as fotos do dispositivo para um pasta específica no computador.
 1. Excluir da pasta do computador as fotos que foram tiradas para teste ou que não serão usadas.
