@@ -29,7 +29,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 **Importante:** Não faça esta atividade sem a supervisão de um adulto! 
 {: .notice--danger}
 
-1. Nesta aula queremos que você construa á sua própria história.
+1. Nesta aula queremos que você construa a sua própria história.
 1. Planejamento
    1. Planejar o roteiro do seu vídeo
       - Organize a "história" que você pretende gravar.
@@ -46,7 +46,8 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. Edição
    1. Importar no software de edição os vídeos e os efeitos especiais.
    1. Editar o vídeo conforme o roteiro planejado.
-   1. Incluir os efeitos especiais. Clique nos links abaixo e veja a lista de efeitos que estão prontos para você usar:
+1. Incluir efeitos especiais.
+   1. Esta é a última etapa do processo. Clique nos links abaixo e veja a lista de efeitos que estão prontos para você usar:
      - [Efeitos Sonoros.](https://drive.google.com/open?id=1GleApgABldJ-Ew9qIktBovaZWUZyjrMr){:target="_blank"}
      - [Efeitos de vídeo.](https://drive.google.com/open?id=1aMyl39olaphEBslXsxkVVIbAAnMZ4ZIq){:target="_blank"}
 1. [Gerar a versão final do vídeo.](https://youtu.be/h_6GBU5QN0s?t=6m04s){:target="_blank"}{:target="_blank"}
