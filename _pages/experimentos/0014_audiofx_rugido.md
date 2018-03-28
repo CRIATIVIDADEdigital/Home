@@ -20,6 +20,7 @@ permalink: /experimento/0014/
 ## Passo a passo
 Vamos ver como podemos transformar o som de tossir em um rugido? :flushed: 
 1. [Grave o som de uma tosse curta. Confira o nosso vídeo para ter uma ideia do som.](https://youtu.be/xiWegD797fs){:target="_blank"}
+   - Não comece "tossindo" imediatamente, deixe um espaço de um a dois segundos no início da gravação. Vamos usar este tempo inicial como base para a redução dos ruídos da gravação. 
 1. [Transfira o arquivo de áudio para o computador.](https://youtu.be/xiWegD797fs?t=18s){:target="_blank"}
 1. [Execute o Audacity e carregue o arquivo de som.](https://youtu.be/xiWegD797fs?t=37s){:target="_blank"}
 1. [Redução dos ruídos](https://youtu.be/xiWegD797fs?t=47s){:target="_blank"}
