@@ -28,7 +28,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. [Grave um áudio qualquer. Pode ser algo como a frase "Minha primeira edição de áudio!". Vamos usá-lo como base para a aplicação do efeito "Robô". ](https://youtu.be/pM-PtCOnb4w){:target="_blank"}
    - Não comece falando imediatamente, deixe um espaço de um a dois segundos no início da gravação. Vamos usar este tempo inicial como base para a redução dos ruídos da gravação. 
 
-   Vamos começar com uma operação básica e muito comum. Normalmente é o primeiro procedimento realizado quando um áudio é capturado/gravado. Este procedimento consiste em reduzir os ruídos (som ambiente), normalizar (deixaro som mais uniforme) e recortar (retirar os sons que não interessam). Antes de começarmos com os efeitos, vamos conhecer este procedimento básico.
+   Começamos com uma operação básica e muito comum. Normalmente é o primeiro procedimento realizado quando um áudio é capturado/gravado. Este procedimento consiste em reduzir os ruídos (som ambiente), normalizar (deixaro som mais uniforme) e recortar (retirar os sons que não interessam). Antes de começarmos com os efeitos, vamos conhecer este procedimento básico.
 
 1. [Transfira o arquivo de áudio para o computador.](https://youtu.be/pM-PtCOnb4w?t=29s){:target="_blank"}
 1. [Execute o Audacity e carregue o arquivo de som.](https://youtu.be/pM-PtCOnb4w?t=53s){:target="_blank"}
