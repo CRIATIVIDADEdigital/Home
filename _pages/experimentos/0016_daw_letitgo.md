@@ -16,12 +16,13 @@ permalink: /experimento/0016/
 ## Material
 * Computador para o processo de edição. 
   * O computador deverá ter o navegador Chrome instalado para execução do software online *Soundtrap*.
-  * O computador deverá incluir o conteúdo desta [pasta](https://drive.google.com/open?id=1NTF7GeiizvQtnb-wEr44QlsI-FKMMRZK) contendo a trilha e o áudio da música.
+  * O computador deverá incluir o conteúdo desta [pasta](https://drive.google.com/open?id=1NTF7GeiizvQtnb-wEr44QlsI-FKMMRZK) contendo a trilha e o vocal da música.
 
 ## Passo a passo
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
 1. Nesta aula você vai recriar a música *Let It Go*.
+1. Use este link para abrir o Soundtrap. O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
 
 **Informação:** Caso você já tenha um áudio base gravado em outro tutorial você pode reaproveitá-lo. Pule o procedimento abaixo e vá direto ao item **Aplicando o efeito "Minions"**. :wink:
 {: .notice--info}
