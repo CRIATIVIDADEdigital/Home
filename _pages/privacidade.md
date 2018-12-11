@@ -1,58 +1,58 @@
 ---
-title: "Pol√≠tica de Privacidade do CRIATIVIDADE.digital"
-excerpt: "Pol√≠tica de Privacidade do CRIATIVIDADE.digital"
+title: "PolÌtica de Privacidade do CRIATIVIDADE.digital"
+excerpt: "PolÌtica de Privacidade do CRIATIVIDADE.digital"
 sitemap: false
 author_profile: false
 permalink: /privacidade.html
 ---
 
-Pol√≠tica de Privacidade do CRIATIVIDADE.digital
-Este Aplicativo recolhe alguns Dados Pessoais dos Usu√°rios.
+PolÌtica de Privacidade do CRIATIVIDADE.digital
+Este Aplicativo recolhe alguns Dados Pessoais dos Usu·rios.
 
 {% include toc %}
 
 ## Tipos de Dados coletados
-Entre os tipos de Dados Pessoais que este Aplicativo recolhe, por si s√≥ ou por meio terceiros, est√£o: Cookie e Dados de Uso.
-Detalhes completos sobre cada tipo de Dados Pessoais coletados s√£o fornecidos nas se√ß√µes dedicadas desta pol√≠tica de privacidade ou por textos explicativos espec√≠ficos exibidos antes da coleta de Dados.
-Os Dados Pessoais poder√£o ser fornecidos livremente pelo Usu√°rio, ou, no caso dos Dados de Utiliza√ß√£o, coletados automaticamente ao se utilizar este Aplicativo.
-Todos os Dados solicitados por este Aplicativo s√£o obrigat√≥rios e a falta de fornecimento destes Dados poder√° impossibilitar este Aplicativo de fornecer os seus servi√ßos. Nos casos em que este Aplicativo afirmar especificamente que alguns Dados n√£o forem obrigat√≥rios, os Usu√°rios ficam livres para deixarem de comunicar estes Dados sem nenhuma consequ√™ncia para a disponibilidade ou o funcionamento deste servi√ßo (este Aplicativo).
-Os Usu√°rios que tiverem d√∫vidas a respeito de quais Dados Pessoais s√£o obrigat√≥rios est√£o convidados a entrar em contato com o Propriet√°rio.
-Quaisquer usos de cookies ‚Äì ou de outras ferramentas de rastreamento ‚Äì por este Aplicativo ser√£o para a finalidade de fornecer os servi√ßos solicitados pelo Usu√°rio, al√©m das demais finalidades descritas no presente documento e na Pol√≠tica de Cookies, se estiver dispon√≠vel.
-Os Usu√°rios ficam respons√°veis por quaisquer Dados Pessoais de terceiros que forem obtidos, publicados ou compartilhados atrav√©s deste servi√ßo (este Aplicativo) e confirmam que possuem a autoriza√ß√£o dos terceiros para fornecerem os Dados para o Propriet√°rio.
+Entre os tipos de Dados Pessoais que este Aplicativo recolhe, por si sÛ ou por meio terceiros, est„o: Cookie e Dados de Uso.
+Detalhes completos sobre cada tipo de Dados Pessoais coletados s„o fornecidos nas seÁıes dedicadas desta polÌtica de privacidade ou por textos explicativos especÌficos exibidos antes da coleta de Dados.
+Os Dados Pessoais poder„o ser fornecidos livremente pelo Usu·rio, ou, no caso dos Dados de UtilizaÁ„o, coletados automaticamente ao se utilizar este Aplicativo.
+Todos os Dados solicitados por este Aplicativo s„o obrigatÛrios e a falta de fornecimento destes Dados poder· impossibilitar este Aplicativo de fornecer os seus serviÁos. Nos casos em que este Aplicativo afirmar especificamente que alguns Dados n„o forem obrigatÛrios, os Usu·rios ficam livres para deixarem de comunicar estes Dados sem nenhuma consequÍncia para a disponibilidade ou o funcionamento deste serviÁo (este Aplicativo).
+Os Usu·rios que tiverem d˙vidas a respeito de quais Dados Pessoais s„o obrigatÛrios est„o convidados a entrar em contato com o Propriet·rio.
+Quaisquer usos de cookies ñ ou de outras ferramentas de rastreamento ñ por este Aplicativo ser„o para a finalidade de fornecer os serviÁos solicitados pelo Usu·rio, alÈm das demais finalidades descritas no presente documento e na PolÌtica de Cookies, se estiver disponÌvel.
+Os Usu·rios ficam respons·veis por quaisquer Dados Pessoais de terceiros que forem obtidos, publicados ou compartilhados atravÈs deste serviÁo (este Aplicativo) e confirmam que possuem a autorizaÁ„o dos terceiros para fornecerem os Dados para o Propriet·rio.
 
 ## Modo e local de processamento dos Dados
-### M√©todo de processamento
-O Controlador de Dados processa os dados de Usu√°rios de forma adequada e tomar√° as medidas de seguran√ßa adequadas para impedir o acesso n√£o autorizado, divulga√ß√£o, altera√ß√£o ou destrui√ß√£o n√£o autorizada dos Dados.
-O processamento de dados √© realizado utilizando computadores e /ou ferramentas de TI habilitadas, seguindo procedimentos organizacionais e meios estritamente relacionados com os fins indicados. Al√©m do Controlador de Dados, em alguns casos, os Dados podem ser acessados por certos tipos de pessoas envolvidas com a opera√ß√£o do site (administra√ß√£o, vendas, marketing, administra√ß√£o legal do sistema) ou pessoas externas (como fornecedores terceirizados de servi√ßos t√©cnicos, carteiros, provedores de hospedagem, empresas de TI, ag√™ncias de comunica√ß√£o) nomeadas, quando necess√°rio, como Processadores de Dados por parte do Propriet√°rio. A lista atualizada destas partes pode ser solicitada a partir do Controlador de Dados a qualquer momento.
+### MÈtodo de processamento
+O Controlador de Dados processa os dados de Usu·rios de forma adequada e tomar· as medidas de seguranÁa adequadas para impedir o acesso n„o autorizado, divulgaÁ„o, alteraÁ„o ou destruiÁ„o n„o autorizada dos Dados.
+O processamento de dados È realizado utilizando computadores e /ou ferramentas de TI habilitadas, seguindo procedimentos organizacionais e meios estritamente relacionados com os fins indicados. AlÈm do Controlador de Dados, em alguns casos, os Dados podem ser acessados por certos tipos de pessoas envolvidas com a operaÁ„o do site (administraÁ„o, vendas, marketing, administraÁ„o legal do sistema) ou pessoas externas (como fornecedores terceirizados de serviÁos tÈcnicos, carteiros, provedores de hospedagem, empresas de TI, agÍncias de comunicaÁ„o) nomeadas, quando necess·rio, como Processadores de Dados por parte do Propriet·rio. A lista atualizada destas partes pode ser solicitada a partir do Controlador de Dados a qualquer momento.
 ### Lugar
-Os dados s√£o processados nas sedes de opera√ß√£o do Controlador de Dados, e em quaisquer outros lugares onde as partes envolvidas com o processamento estejam localizadas. Para mais informa√ß√µes, por favor entre em contato com o Controlador de Dados.
-### Per√≠odo de conserva√ß√£o
-Os Dados s√£o mantidos pelo per√≠odo necess√°rio para prestar o servi√ßo solicitado pelo Usu√°rio, ou pelos fins descritos neste documento, e o Usu√°rio pode solicitar o Controlador de Dados para que os suspenda ou remova.
+Os dados s„o processados nas sedes de operaÁ„o do Controlador de Dados, e em quaisquer outros lugares onde as partes envolvidas com o processamento estejam localizadas. Para mais informaÁıes, por favor entre em contato com o Controlador de Dados.
+### PerÌodo de conservaÁ„o
+Os Dados s„o mantidos pelo perÌodo necess·rio para prestar o serviÁo solicitado pelo Usu·rio, ou pelos fins descritos neste documento, e o Usu·rio pode solicitar o Controlador de Dados para que os suspenda ou remova.
 
 ## O Uso dos Dados coletados
-Os Dados relativos ao Usu√°rio s√£o coletados para permitir que o Propriet√°rio forne√ßa os servi√ßos, bem como para os seguintes prop√≥sitos: Estat√≠sticas e Acesso a contas de servi√ßos de terceiros.
-Os Dados Pessoais utilizados para cada finalidade est√£o descrito nas se√ß√µes espec√≠ficas deste documento.
+Os Dados relativos ao Usu·rio s„o coletados para permitir que o Propriet·rio forneÁa os serviÁos, bem como para os seguintes propÛsitos: EstatÌsticas e Acesso a contas de serviÁos de terceiros.
+Os Dados Pessoais utilizados para cada finalidade est„o descrito nas seÁıes especÌficas deste documento.
 
-## Permiss√µes do Facebook solicitadas por este Aplicativo
-Este Aplicativo pode pedir algumas permiss√µes no Facebook que permitem realizar a√ß√µes com a conta do usu√°rio no Facebook e para recuperar as informa√ß√µes, incluindo dados pessoais. Este servi√ßo permite que este Aplicativo se conecte com a conta do Usu√°rio na rede social Facebook, fornecido pelo Facebook Inc.
-Para mais informa√ß√µes sobre as seguintes permiss√µes, consulte a [documenta√ß√£o de permiss√µes Facebook](https://developers.facebook.com/docs/authentication/permissions/) e a [pol√≠tica de privacidade do Facebook](https://www.facebook.com/about/privacy/).
-As permiss√µes solicitadas s√£o as seguintes: Bate - papo, Contato de e-mail e Informa√ß√µes b√°sicas.
+## Permissıes do Facebook solicitadas por este Aplicativo
+Este Aplicativo pode pedir algumas permissıes no Facebook que permitem realizar aÁıes com a conta do usu·rio no Facebook e para recuperar as informaÁıes, incluindo dados pessoais. Este serviÁo permite que este Aplicativo se conecte com a conta do Usu·rio na rede social Facebook, fornecido pelo Facebook Inc.
+Para mais informaÁıes sobre as seguintes permissıes, consulte a [documentaÁ„o de permissıes Facebook](https://developers.facebook.com/docs/authentication/permissions/) e a [polÌtica de privacidade do Facebook](https://www.facebook.com/about/privacy/).
+As permissıes solicitadas s„o as seguintes: Bate - papo, Contato de e-mail e InformaÁıes b·sicas.
 
-## Informa√ß√µes adicionais sobre a coleta e processamento de Dados
-### A√ß√£o jur√≠dica
-Os Dados Pessoais dos Usu√°rios podem ser utilizados para fins jur√≠dicos pelo Controlador de Dados em ju√≠zo ou nas etapas conducentes √† poss√≠vel a√ß√£o jur√≠dica decorrente de uso indevido deste servi√ßo (este Aplicativo) ou dos servi√ßos relacionados.
-O Usu√°rio declara estar ciente de que o Controlador dos Dados poder√° ser obrigado a revelar os Dados Pessoais mediante solicita√ß√£o das autoridades governamentais.
-### Informa√ß√µes adicionais sobre os Dados Pessoais do Usu√°rio
-Al√©m das informa√ß√µes contidas nesta pol√≠tica de privacidade, este Aplicativo poder√° fornecer ao Usu√°rio informa√ß√µes adicionais e contextuais sobre os servi√ßos espec√≠ficos ou a coleta e processamento de Dados Pessoais mediante solicita√ß√£o.
-### Logs do sistema e manuten√ß√£o
-Para fins de opera√ß√£o e manuten√ß√£o, este Aplicativo e quaisquer servi√ßos de terceiros poder√£o coletar arquivos que gravam a intera√ß√£o com este Aplicativo (Logs do sistema) ou usar, para este fim, outros Dados Pessoais (tais como endere√ßo IP).
-### As informa√ß√µes n√£o contidas nesta pol√≠tica
-Mais detalhes sobre a coleta ou processamento de Dados Pessoais podem ser solicitados ao Controlador de Dados, a qualquer momento. Favor ver as informa√ß√µes de contato no in√≠cio deste documento.
-### Os direitos dos Usu√°rios
-Os Usu√°rios t√™m o direito de, a qualquer tempo, consultar o Controlador de Dados para saber se os seus Dados Pessoais foram armazenados e saber mais sobre o conte√∫do e origem, verificar a sua exatid√£o ou para pedir que sejam complementados, cancelados, atualizados ou corrigidos, ou que sejam transformados em formato an√¥nimo ou bloquear quaisquer dados mantidos em viola√ß√£o da lei, bem como se opor ao seu tratamento por quaisquer todas as raz√µes leg√≠timas. Os pedidos devem ser enviados para o Controlador de Dados usando a informa√ß√£o de contato fornecida acima.
-Este Aplicativo n√£o suporta pedidos de ‚ÄúN√£o Me Rastreie‚Äù.
-Para determinar se qualquer um dos servi√ßos de terceiros que utiliza honram solicita√ß√µes de ‚ÄúN√£o Me Rastreie‚Äù, por favor leia as pol√≠ticas de privacidade.
-### Mudan√ßas nesta pol√≠tica de privacidade
-O Controlador de Dados se reserva o direito de fazer altera√ß√µes nesta pol√≠tica de privacidade a qualquer momento, mediante comunica√ß√£o aos seus Usu√°rios nesta p√°gina. √â altamente recomend√°vel que esta p√°gina seja consultada v√°rias vezes em rela√ß√£o √† √∫ltima modifica√ß√£o descrita na parte inferior. Se o Usu√°rio n√£o concorda com qualquer das altera√ß√µes da Pol√≠tica de Privacidade, o Usu√°rio deve cessar o uso deste servi√ßo (este Aplicativo) e pode solicitar ao Controlador de Dados que apague os Dados Pessoais. Salvo disposi√ß√£o em contr√°rio, a atual pol√≠tica de privacidade se aplica a todos os Dados Pessoais dos Usu√°rios que o Controlador de Dados tiver.
-### Informa√ß√µes sobre esta pol√≠tica de privacidade
-O Controlador de Dados √© respons√°vel por esta pol√≠tica de privacidade, elaborada a partir dos m√≥dulos fornecidos pela Iubenda e hospedados nos servidores da Iubenda.
+## InformaÁıes adicionais sobre a coleta e processamento de Dados
+### AÁ„o jurÌdica
+Os Dados Pessoais dos Usu·rios podem ser utilizados para fins jurÌdicos pelo Controlador de Dados em juÌzo ou nas etapas conducentes ‡ possÌvel aÁ„o jurÌdica decorrente de uso indevido deste serviÁo (este Aplicativo) ou dos serviÁos relacionados.
+O Usu·rio declara estar ciente de que o Controlador dos Dados poder· ser obrigado a revelar os Dados Pessoais mediante solicitaÁ„o das autoridades governamentais.
+### InformaÁıes adicionais sobre os Dados Pessoais do Usu·rio
+AlÈm das informaÁıes contidas nesta polÌtica de privacidade, este Aplicativo poder· fornecer ao Usu·rio informaÁıes adicionais e contextuais sobre os serviÁos especÌficos ou a coleta e processamento de Dados Pessoais mediante solicitaÁ„o.
+### Logs do sistema e manutenÁ„o
+Para fins de operaÁ„o e manutenÁ„o, este Aplicativo e quaisquer serviÁos de terceiros poder„o coletar arquivos que gravam a interaÁ„o com este Aplicativo (Logs do sistema) ou usar, para este fim, outros Dados Pessoais (tais como endereÁo IP).
+### As informaÁıes n„o contidas nesta polÌtica
+Mais detalhes sobre a coleta ou processamento de Dados Pessoais podem ser solicitados ao Controlador de Dados, a qualquer momento. Favor ver as informaÁıes de contato no inÌcio deste documento.
+### Os direitos dos Usu·rios
+Os Usu·rios tÍm o direito de, a qualquer tempo, consultar o Controlador de Dados para saber se os seus Dados Pessoais foram armazenados e saber mais sobre o conte˙do e origem, verificar a sua exatid„o ou para pedir que sejam complementados, cancelados, atualizados ou corrigidos, ou que sejam transformados em formato anÙnimo ou bloquear quaisquer dados mantidos em violaÁ„o da lei, bem como se opor ao seu tratamento por quaisquer todas as razıes legÌtimas. Os pedidos devem ser enviados para o Controlador de Dados usando a informaÁ„o de contato fornecida acima.
+Este Aplicativo n„o suporta pedidos de ìN„o Me Rastreieî.
+Para determinar se qualquer um dos serviÁos de terceiros que utiliza honram solicitaÁıes de ìN„o Me Rastreieî, por favor leia as polÌticas de privacidade.
+### MudanÁas nesta polÌtica de privacidade
+O Controlador de Dados se reserva o direito de fazer alteraÁıes nesta polÌtica de privacidade a qualquer momento, mediante comunicaÁ„o aos seus Usu·rios nesta p·gina. … altamente recomend·vel que esta p·gina seja consultada v·rias vezes em relaÁ„o ‡ ˙ltima modificaÁ„o descrita na parte inferior. Se o Usu·rio n„o concorda com qualquer das alteraÁıes da PolÌtica de Privacidade, o Usu·rio deve cessar o uso deste serviÁo (este Aplicativo) e pode solicitar ao Controlador de Dados que apague os Dados Pessoais. Salvo disposiÁ„o em contr·rio, a atual polÌtica de privacidade se aplica a todos os Dados Pessoais dos Usu·rios que o Controlador de Dados tiver.
+### InformaÁıes sobre esta polÌtica de privacidade
+O Controlador de Dados È respons·vel por esta polÌtica de privacidade, elaborada a partir dos mÛdulos fornecidos pela Iubenda e hospedados nos servidores da Iubenda.

@@ -6,153 +6,152 @@ author_profile: false
 permalink: /termos.html
 ---
 
-TERMOS DE SERVIÃ‡O
+TERMOS DE SERVIÇO
 
 {% include toc %}
 
-## VISÃƒO GERAL
+## VISÃO GERAL
 
-Esse site Ã© operado pelo Editora eTrix. Em todo o site, os termos â€œnÃ³sâ€, â€œnosâ€ e â€œnossoâ€ se referem ao Editora eTrix. O Editora eTrix proporciona esse site, incluindo todas as informaÃ§Ãµes, ferramentas e serviÃ§os disponÃ­veis deste site para vocÃª, o usuÃ¡rio, com a condiÃ§Ã£o da sua aceitaÃ§Ã£o de todos os termos, condiÃ§Ãµes, polÃ­ticas e avisos declarados aqui.
+Esse site é operado pelo Editora eTrix. Em todo o site, os termos “nós”, “nos” e “nosso” se referem ao Editora eTrix. O Editora eTrix proporciona esse site, incluindo todas as informações, ferramentas e serviços disponíveis deste site para você, o usuário, com a condição da sua aceitação de todos os termos, condições, políticas e avisos declarados aqui.
 
-Ao visitar nosso site e/ou comprar alguma coisa no nosso site, vocÃª estÃ¡ utilizando nossos â€œServiÃ§osâ€. Consequentemente, vocÃª  concorda com os seguintes termos e condiÃ§Ãµes (â€œTermos de serviÃ§oâ€, â€œTermosâ€), incluindo os termos e condiÃ§Ãµes e polÃ­ticas adicionais mencionados neste documento e/ou disponÃ­veis por hyperlink. Esses Termos de serviÃ§o se aplicam a todos os usuÃ¡rios do site, incluindo, sem limitaÃ§Ã£o, os usuÃ¡rios que sÃ£o navegadores, fornecedores, clientes, lojistas e/ou contribuidores de conteÃºdo.
+Ao visitar nosso site e/ou comprar alguma coisa no nosso site, você está utilizando nossos “Serviços”. Consequentemente, você  concorda com os seguintes termos e condições (“Termos de serviço”, “Termos”), incluindo os termos e condições e políticas adicionais mencionados neste documento e/ou disponíveis por hyperlink. Esses Termos de serviço se aplicam a todos os usuários do site, incluindo, sem limitação, os usuários que são navegadores, fornecedores, clientes, lojistas e/ou contribuidores de conteúdo.
 
-Por favor, leia esses Termos de serviÃ§o cuidadosamente antes de acessar ou utilizar o nosso site. Ao acessar ou usar qualquer parte do site, vocÃª concorda com os Termos de serviÃ§o. Se vocÃª nÃ£o concorda com todos os termos e condiÃ§Ãµes desse acordo, entÃ£o vocÃª nÃ£o pode acessar o site ou usar quaisquer serviÃ§os. Se esses Termos de serviÃ§o sÃ£o considerados uma oferta, a aceitaÃ§Ã£o Ã© expressamente limitada a esses Termos de serviÃ§o.
+Por favor, leia esses Termos de serviço cuidadosamente antes de acessar ou utilizar o nosso site. Ao acessar ou usar qualquer parte do site, você concorda com os Termos de serviço. Se você não concorda com todos os termos e condições desse acordo, então você não pode acessar o site ou usar quaisquer serviços. Se esses Termos de serviço são considerados uma oferta, a aceitação é expressamente limitada a esses Termos de serviço.
 
-Quaisquer novos recursos ou ferramentas que forem adicionados Ã  loja atual tambÃ©m devem estar sujeitos aos Termos de serviÃ§o. VocÃª pode revisar a versÃ£o mais atual dos Termos de serviÃ§o quando quiser nesta pÃ¡gina. Reservamos o direito de atualizar, alterar ou trocar qualquer parte desses Termos de serviÃ§o ao publicar atualizaÃ§Ãµes e/ou alteraÃ§Ãµes no nosso site. Ã‰ sua responsabilidade verificar as alteraÃ§Ãµes feitas nesta pÃ¡gina periodicamente. Seu uso contÃ­nuo ou acesso ao site apÃ³s a publicaÃ§Ã£o de quaisquer alteraÃ§Ãµes constitui aceitaÃ§Ã£o de tais alteraÃ§Ãµes.
+Quaisquer novos recursos ou ferramentas que forem adicionados à loja atual também devem estar sujeitos aos Termos de serviço. Você pode revisar a versão mais atual dos Termos de serviço quando quiser nesta página. Reservamos o direito de atualizar, alterar ou trocar qualquer parte desses Termos de serviço ao publicar atualizações e/ou alterações no nosso site. É sua responsabilidade verificar as alterações feitas nesta página periodicamente. Seu uso contínuo ou acesso ao site após a publicação de quaisquer alterações constitui aceitação de tais alterações.
 
 
-## SEÃ‡ÃƒO 1 - TERMOS GERAIS
+## SEÇÃO 1 - TERMOS GERAIS
 
-VocÃª nÃ£o deve usar nossos produtos para qualquer fim ilegal ou nÃ£o autorizado. VocÃª tambÃ©m nÃ£o pode, ao usufruir deste ServiÃ§o, violar quaisquer leis em sua jurisdiÃ§Ã£o (incluindo, mas nÃ£o limitado, a leis de direitos autorais).
+Você não deve usar nossos produtos para qualquer fim ilegal ou não autorizado. Você também não pode, ao usufruir deste Serviço, violar quaisquer leis em sua jurisdição (incluindo, mas não limitado, a leis de direitos autorais).
 
-VocÃª nÃ£o deve transmitir nenhum vÃ­rus ou qualquer cÃ³digo de natureza destrutiva.
+Você não deve transmitir nenhum vírus ou qualquer código de natureza destrutiva.
 
-Violar qualquer um dos Termos tem como consequÃªncia a rescisÃ£o imediata dos seus ServiÃ§os.
+Violar qualquer um dos Termos tem como consequência a rescisão imediata dos seus Serviços.
 
 
-## SEÃ‡ÃƒO 2 - CONDIÃ‡Ã•ES GERAIS
+## SEÇÃO 2 - CONDIÇÕES GERAIS
 
-Reservamos o direito de recusar o serviÃ§o a qualquer pessoa por qualquer motivo a qualquer momento.
+Reservamos o direito de recusar o serviço a qualquer pessoa por qualquer motivo a qualquer momento.
 
-VocÃª entende que o seu conteÃºdo (nÃ£o incluindo informaÃ§Ãµes de cartÃ£o de crÃ©dito), pode ser transferido sem criptografia e pode: (a) ser transmitido por vÃ¡rias redes; e (b) sofrer alteraÃ§Ãµes para se adaptar e se adequar Ã s exigÃªncias tÃ©cnicas de conexÃ£o de redes ou dispositivos. As informaÃ§Ãµes de cartÃ£o de crÃ©dito sempre sÃ£o criptografadas durante a transferÃªncia entre redes.
+Você entende que o seu conteúdo (não incluindo informações de cartão de crédito), pode ser transferido sem criptografia e pode: (a) ser transmitido por várias redes; e (b) sofrer alterações para se adaptar e se adequar às exigências técnicas de conexão de redes ou dispositivos. As informações de cartão de crédito sempre são criptografadas durante a transferência entre redes.
 
-VocÃª concorda em nÃ£o vender, revender ou explorar qualquer parte do ServiÃ§o, uso do ServiÃ§o, acesso ao ServiÃ§o, ou qualquer contato no site atravÃ©s do qual o serviÃ§o Ã© fornecido, sem nossa permissÃ£o expressa por escrito.
+Você concorda em não vender, revender ou explorar qualquer parte do Serviço, uso do Serviço, acesso ao Serviço, ou qualquer contato no site através do qual o serviço é fornecido, sem nossa permissão expressa por escrito.
 
-Os tÃ­tulos usados nesse acordo sÃ£o incluÃ­dos apenas por conveniÃªncia e nÃ£o limitam ou  afetam os Termos.
+Os títulos usados nesse acordo são incluídos apenas por conveniência e não limitam ou  afetam os Termos.
 
 
-## SEÃ‡ÃƒO 3 - PRECISÃƒO, INTEGRIDADE E ATUALIZAÃ‡ÃƒO DAS INFORMAÃ‡Ã•ES
+## SEÇÃO 3 - PRECISÃO, INTEGRIDADE E ATUALIZAÇÃO DAS INFORMAÇÕES
 
-NÃ£o somos responsÃ¡veis por informaÃ§Ãµes disponibilizadas nesse site que nÃ£o sejam precisas, completas ou atuais. O material desse site Ã© fornecido apenas para fins informativos e nÃ£o deve ser usado como a Ãºnica base para tomar decisÃµes sem consultar fontes de informaÃ§Ãµes primÃ¡rias, mais precisas, mais completas ou mais atuais. Qualquer utilizaÃ§Ã£o do material desse site Ã© por sua conta e risco.
+Não somos responsáveis por informações disponibilizadas nesse site que não sejam precisas, completas ou atuais. O material desse site é fornecido apenas para fins informativos e não deve ser usado como a única base para tomar decisões sem consultar fontes de informações primárias, mais precisas, mais completas ou mais atuais. Qualquer utilização do material desse site é por sua conta e risco.
 
-Esse site pode conter certas informaÃ§Ãµes histÃ³ricas. As informaÃ§Ãµes histÃ³ricas podem nÃ£o ser atuais e sÃ£o fornecidas apenas para sua referÃªncia. Reservamos o direito de modificar o conteÃºdo desse site a qualquer momento, mas nÃ³s nÃ£o temos obrigaÃ§Ã£o de atualizar nenhuma informaÃ§Ã£o em nosso site. VocÃª concorda que Ã© de sua responsabilidade monitorar alteraÃ§Ãµes no nosso site.
+Esse site pode conter certas informações históricas. As informações históricas podem não ser atuais e são fornecidas apenas para sua referência. Reservamos o direito de modificar o conteúdo desse site a qualquer momento, mas nós não temos obrigação de atualizar nenhuma informação em nosso site. Você concorda que é de sua responsabilidade monitorar alterações no nosso site.
 
 
-## SEÃ‡ÃƒO 4 - MODIFICAÃ‡Ã•ES DO SERVIÃ‡O E PREÃ‡OS
+## SEÇÃO 4 - MODIFICAÇÕES DO SERVIÇO E PREÇOS
 
-Reservamos o direito de, a qualquer momento, modificar ou descontinuar o ServiÃ§o (ou qualquer parte ou conteÃºdo do mesmo) sem notificaÃ§Ã£o em qualquer momento.
+Reservamos o direito de, a qualquer momento, modificar ou descontinuar o Serviço (ou qualquer parte ou conteúdo do mesmo) sem notificação em qualquer momento.
 
-NÃ£o nos responsabilizados por vocÃª ou por qualquer terceiro por qualquer modificaÃ§Ã£o, alteraÃ§Ã£o, suspensÃ£o ou descontinuaÃ§Ã£o do ServiÃ§o.
+Não nos responsabilizados por você ou por qualquer terceiro por qualquer modificação, alteração, suspensão ou descontinuação do Serviço.
 
 
-## SEÃ‡ÃƒO 5 - PRODUTOS OU SERVIÃ‡OS (caso aplicÃ¡vel)
+## SEÇÃO 5 - PRODUTOS OU SERVIÇOS (caso aplicável)
 
-Certos produtos ou serviÃ§os podem estar disponÃ­veis exclusivamente online atravÃ©s do site. Tais produtos ou serviÃ§os podem ter quantidades limitadas e sÃ£o sujeitos a apenas devoluÃ§Ã£o ou troca, de acordo com nossa PolÃ­tica de devoluÃ§Ã£o.
+Certos produtos ou serviços podem estar disponíveis exclusivamente online através do site. Tais produtos ou serviços podem ter quantidades limitadas e são sujeitos a apenas devolução ou troca, de acordo com nossa Política de devolução.
 
-Reservamos o direito, mas nÃ£o somos obrigados, a limitar as vendas de nossos produtos ou ServiÃ§os para qualquer pessoa, regiÃ£o geogrÃ¡fica ou jurisdiÃ§Ã£o. Podemos exercer esse direito conforme o caso. Reservamos o direito de limitar as quantidades de quaisquer produtos ou serviÃ§os que oferecemos. Todas as descriÃ§Ãµes de produtos ou preÃ§os de produtos sÃ£o sujeitos a alteraÃ§Ã£o a qualquer momento sem notificaÃ§Ã£o, a nosso critÃ©rio exclusivo. Reservamos o direito de descontinuar qualquer produto a qualquer momento. Qualquer oferta feita por qualquer produto ou serviÃ§o nesse site Ã© nula onde for proibido por lei.
+Reservamos o direito, mas não somos obrigados, a limitar as vendas de nossos produtos ou Serviços para qualquer pessoa, região geográfica ou jurisdição. Podemos exercer esse direito conforme o caso. Reservamos o direito de limitar as quantidades de quaisquer produtos ou serviços que oferecemos. Todas as descrições de produtos ou preços de produtos são sujeitos a alteração a qualquer momento sem notificação, a nosso critério exclusivo. Reservamos o direito de descontinuar qualquer produto a qualquer momento. Qualquer oferta feita por qualquer produto ou serviço nesse site é nula onde for proibido por lei.
 
-NÃ£o garantimos que a qualidade de quaisquer produtos, serviÃ§os, informaÃ§Ãµes ou outros materiais comprados ou obtidos por vocÃª vÃ£o atender Ã s suas expectativas, ou que quaisquer erros no ServiÃ§o serÃ£o corrigidos.
+Não garantimos que a qualidade de quaisquer produtos, serviços, informações ou outros materiais comprados ou obtidos por você vão atender às suas expectativas, ou que quaisquer erros no Serviço serão corrigidos.
 
 
-## SEÃ‡ÃƒO 6 - LINKS DE TERCEIROS
+## SEÇÃO 6 - LINKS DE TERCEIROS
 
-Certos produtos, conteÃºdos e serviÃ§os disponÃ­veis pelo nosso ServiÃ§o podem incluir materiais de terceiros.
+Certos produtos, conteúdos e serviços disponíveis pelo nosso Serviço podem incluir materiais de terceiros.
 
-Os links de terceiros nesse site podem te direcionar para sites de terceiros que nÃ£o sÃ£o afiliados a nÃ³s. NÃ£o nos responsabilizamos por examinar ou avaliar o conteÃºdo ou precisÃ£o. NÃ£o garantimos e nem temos obrigaÃ§Ã£o ou responsabilidade por quaisquer materiais ou sites de terceiros, ou por quaisquer outros materiais, produtos ou serviÃ§os de terceiros.
+Os links de terceiros nesse site podem te direcionar para sites de terceiros que não são afiliados a nós. Não nos responsabilizamos por examinar ou avaliar o conteúdo ou precisão. Não garantimos e nem temos obrigação ou responsabilidade por quaisquer materiais ou sites de terceiros, ou por quaisquer outros materiais, produtos ou serviços de terceiros.
 
-NÃ£o somos responsÃ¡veis por quaisquer danos ou prejuÃ­zos relacionados com a compra ou uso de mercadorias, serviÃ§os, recursos, conteÃºdo, ou quaisquer outras transaÃ§Ãµes feitas em conexÃ£o com quaisquer sites de terceiros. Por favor, revise com cuidado as polÃ­ticas e prÃ¡ticas de terceiros e certifique-se que vocÃª as entende antes de efetuar qualquer transaÃ§Ã£o. As queixas, reclamaÃ§Ãµes, preocupaÃ§Ãµes ou questÃµes relativas a produtos de terceiros devem ser direcionadas ao terceiro.
+Não somos responsáveis por quaisquer danos ou prejuízos relacionados com a compra ou uso de mercadorias, serviços, recursos, conteúdo, ou quaisquer outras transações feitas em conexão com quaisquer sites de terceiros. Por favor, revise com cuidado as políticas e práticas de terceiros e certifique-se que você as entende antes de efetuar qualquer transação. As queixas, reclamações, preocupações ou questões relativas a produtos de terceiros devem ser direcionadas ao terceiro.
 
 
-## SEÃ‡ÃƒO 7 - COMENTÃRIOS, FEEDBACK, ETC. DO USUÃRIO
+## SEÇÃO 7 - COMENTÁRIOS, FEEDBACK, ETC. DO USUÁRIO
 
-Se, a nosso pedido, vocÃª enviar certos itens especÃ­ficos (por exemplo, participaÃ§Ã£o em um concurso), ou sem um pedido nosso, vocÃª enviar ideias criativas, sugestÃµes, propostas, planos, ou outros materiais, seja online, por e-mail, pelo correio, ou de outra forma (em conjunto chamados de 'comentÃ¡rios'), vocÃª concorda que podemos, a qualquer momento, sem restriÃ§Ã£o, editar, copiar publicar, distribuir, traduzir e de outra forma usar quaisquer comentÃ¡rios que vocÃª encaminhar para nÃ³s. NÃ£o nos responsabilizamos por: (1) manter quaisquer comentÃ¡rios em sigilo; (2) indenizar por quaisquer comentÃ¡rios; ou (3) responder quaisquer comentÃ¡rios.
+Se, a nosso pedido, você enviar certos itens específicos (por exemplo, participação em um concurso), ou sem um pedido nosso, você enviar ideias criativas, sugestões, propostas, planos, ou outros materiais, seja online, por e-mail, pelo correio, ou de outra forma (em conjunto chamados de 'comentários'), você concorda que podemos, a qualquer momento, sem restrição, editar, copiar publicar, distribuir, traduzir e de outra forma usar quaisquer comentários que você encaminhar para nós. Não nos responsabilizamos por: (1) manter quaisquer comentários em sigilo; (2) indenizar por quaisquer comentários; ou (3) responder quaisquer comentários.
 
-Podemos, mas nÃ£o temos a obrigaÃ§Ã£o, de monitorar, editar ou remover conteÃºdo que nÃ³s determinamos a nosso prÃ³prio critÃ©rio ser contra a lei, ofensivo, ameaÃ§ador, calunioso, difamatÃ³rio, pornogrÃ¡fico, obsceno ou censurÃ¡vel ou que viole a propriedade intelectual de terceiros ou estes Termos de serviÃ§o.
+Podemos, mas não temos a obrigação, de monitorar, editar ou remover conteúdo que nós determinamos a nosso próprio critério ser contra a lei, ofensivo, ameaçador, calunioso, difamatório, pornográfico, obsceno ou censurável ou que viole a propriedade intelectual de terceiros ou estes Termos de serviço.
 
-VocÃª concorda que seus comentÃ¡rios nÃ£o violarÃ£o qualquer direito de terceiros, incluindo direitos autorais, marcas registradas, privacidade, personalidade ou outro direito pessoal ou de propriedade. VocÃª concorda que os seus comentÃ¡rios nÃ£o vÃ£o conter material difamatÃ³rio, ilegal, abusivo ou obsceno. Eles tambÃ©m nÃ£o conterÃ£o nenhum vÃ­rus de computador ou outro malware que possa afetar a operaÃ§Ã£o do ServiÃ§o ou qualquer site relacionado. VocÃª nÃ£o pode usar um endereÃ§o de e-mail falso, fingir ser alguÃ©m diferente de si mesmo, ou de outra forma enganar a nÃ³s ou terceiros quanto Ã  origem de quaisquer comentÃ¡rios. VocÃª Ã© o Ãºnico responsÃ¡vel por quaisquer comentÃ¡rios que vocÃª faz e pela veracidade deles. NÃ³s nÃ£o assumimos qualquer responsabilidade ou obrigaÃ§Ã£o por quaisquer comentÃ¡rios publicados por vocÃª ou por qualquer terceiro.
+Você concorda que seus comentários não violarão qualquer direito de terceiros, incluindo direitos autorais, marcas registradas, privacidade, personalidade ou outro direito pessoal ou de propriedade. Você concorda que os seus comentários não vão conter material difamatório, ilegal, abusivo ou obsceno. Eles também não conterão nenhum vírus de computador ou outro malware que possa afetar a operação do Serviço ou qualquer site relacionado. Você não pode usar um endereço de e-mail falso, fingir ser alguém diferente de si mesmo, ou de outra forma enganar a nós ou terceiros quanto à origem de quaisquer comentários. Você é o único responsável por quaisquer comentários que você faz e pela veracidade deles. Nós não assumimos qualquer responsabilidade ou obrigação por quaisquer comentários publicados por você ou por qualquer terceiro.
 
 
-## SEÃ‡ÃƒO 8 - INFORMAÃ‡Ã•ES PESSOAIS
+## SEÇÃO 8 - INFORMAÇÕES PESSOAIS
 
-O envio de suas informaÃ§Ãµes pessoais atravÃ©s do site Ã© regido pela nossa PolÃ­tica de privacidade. Ver nossa PolÃ­tica de privacidade.
+O envio de suas informações pessoais através do site é regido pela nossa Política de privacidade. Ver nossa Política de privacidade.
 
 
-## SEÃ‡ÃƒO 9 - ERROS, IMPRECISÃ•ES E OMISSÃ•ES
+## SEÇÃO 9 - ERROS, IMPRECISÕES E OMISSÕES
 
-Ocasionalmente, pode haver informaÃ§Ãµes no nosso site ou no ServiÃ§o que contÃ©m erros tipogrÃ¡ficos, imprecisÃµes ou omissÃµes que possam relacionar-se a descriÃ§Ãµes de produtos, preÃ§os, promoÃ§Ãµes, ofertas, taxas de envio do produto, o prazo de envio e disponibilidade. Reservamos o direito de corrigir quaisquer erros, imprecisÃµes ou omissÃµes, e de alterar ou atualizar informaÃ§Ãµes ou cancelar encomendas caso qualquer informaÃ§Ã£o no ServiÃ§o ou em qualquer site relacionado seja imprecisa, a qualquer momento e sem aviso prÃ©vio (atÃ© mesmo depois de vocÃª ter enviado o seu pedid).
+Ocasionalmente, pode haver informações no nosso site ou no Serviço que contém erros tipográficos, imprecisões ou omissões que possam relacionar-se a descrições de produtos, preços, promoções, ofertas, taxas de envio do produto, o prazo de envio e disponibilidade. Reservamos o direito de corrigir quaisquer erros, imprecisões ou omissões, e de alterar ou atualizar informações ou cancelar encomendas caso qualquer informação no Serviço ou em qualquer site relacionado seja imprecisa, a qualquer momento e sem aviso prévio (até mesmo depois de você ter enviado o seu pedid).
 
-NÃ£o assumimos nenhuma obrigaÃ§Ã£o de atualizar, alterar ou esclarecer informaÃ§Ãµes no ServiÃ§o ou em qualquer site relacionado, incluindo, sem limitaÃ§Ã£o, a informaÃ§Ãµes sobre preÃ§os, exceto conforme exigido por lei. Nenhuma atualizaÃ§Ã£o especÃ­fica ou data de atualizaÃ§Ã£o no ServiÃ§o ou em qualquer site relacionado, deve ser utilizada para indicar que todas as informaÃ§Ãµes do ServiÃ§o ou em qualquer site relacionado tenham sido modificadas ou atualizadas.
+Não assumimos nenhuma obrigação de atualizar, alterar ou esclarecer informações no Serviço ou em qualquer site relacionado, incluindo, sem limitação, a informações sobre preços, exceto conforme exigido por lei. Nenhuma atualização específica ou data de atualização no Serviço ou em qualquer site relacionado, deve ser utilizada para indicar que todas as informações do Serviço ou em qualquer site relacionado tenham sido modificadas ou atualizadas.
 
 
-## SEÃ‡ÃƒO 10 - USOS PROIBIDOS
+## SEÇÃO 10 - USOS PROIBIDOS
 
-AlÃ©m de outras proibiÃ§Ãµes, conforme estabelecido nos Termos de serviÃ§o, vocÃª estÃ¡ proibido de usar o site ou o conteÃºdo para: (a) fins ilÃ­citos; (b) solicitar outras pessoas a realizar ou participar de quaisquer atos ilÃ­citos; (c) violar quaisquer regulamentos internacionais, provinciais, estaduais ou federais, regras, leis ou regulamentos locais; (d) infringir ou violar nossos direitos de propriedade intelectual ou os direitos de propriedade intelectual de terceiros; (e) para assediar, abusar, insultar, danificar, difamar, caluniar, depreciar, intimidar ou discriminar com base em gÃªnero, orientaÃ§Ã£o sexual, religiÃ£o, etnia, raÃ§a, idade, nacionalidade ou deficiÃªncia; (f) apresentar informaÃ§Ãµes falsas ou enganosas; (g) fazer o envio ou transmitir vÃ­rus ou qualquer outro tipo de cÃ³digo malicioso que serÃ¡ ou poderÃ¡ ser utilizado para afetar a funcionalidade ou operaÃ§Ã£o do ServiÃ§o ou de qualquer site relacionado, outros sites, ou da Internet; (h) coletar ou rastrear as informaÃ§Ãµes pessoais de outras pessoas; (i) para enviar spam, phishing, pharm, pretext, spider, crawl, ou scrape; (j) para fins obscenos ou imorais; ou (k) para interferir ou contornar os recursos de seguranÃ§a do ServiÃ§o ou de qualquer site relacionado, outros sites, ou da Internet. Reservamos o direito de rescindir o seu uso do ServiÃ§o ou de qualquer site relacionado por violar qualquer um dos usos proibidos.
+Além de outras proibições, conforme estabelecido nos Termos de serviço, você está proibido de usar o site ou o conteúdo para: (a) fins ilícitos; (b) solicitar outras pessoas a realizar ou participar de quaisquer atos ilícitos; (c) violar quaisquer regulamentos internacionais, provinciais, estaduais ou federais, regras, leis ou regulamentos locais; (d) infringir ou violar nossos direitos de propriedade intelectual ou os direitos de propriedade intelectual de terceiros; (e) para assediar, abusar, insultar, danificar, difamar, caluniar, depreciar, intimidar ou discriminar com base em gênero, orientação sexual, religião, etnia, raça, idade, nacionalidade ou deficiência; (f) apresentar informações falsas ou enganosas; (g) fazer o envio ou transmitir vírus ou qualquer outro tipo de código malicioso que será ou poderá ser utilizado para afetar a funcionalidade ou operação do Serviço ou de qualquer site relacionado, outros sites, ou da Internet; (h) coletar ou rastrear as informações pessoais de outras pessoas; (i) para enviar spam, phishing, pharm, pretext, spider, crawl, ou scrape; (j) para fins obscenos ou imorais; ou (k) para interferir ou contornar os recursos de segurança do Serviço ou de qualquer site relacionado, outros sites, ou da Internet. Reservamos o direito de rescindir o seu uso do Serviço ou de qualquer site relacionado por violar qualquer um dos usos proibidos.
 
 
-## SEÃ‡ÃƒO 11 - ISENÃ‡ÃƒO DE RESPONSABILIDADE DE GARANTIAS; LIMITAÃ‡ÃƒO DE RESPONSABILIDADE
+## SEÇÃO 11 - ISENÇÃO DE RESPONSABILIDADE DE GARANTIAS; LIMITAÇÃO DE RESPONSABILIDADE
 
-NÃ³s nÃ£o garantimos, representamos ou justificamos que o seu uso do nosso serviÃ§o serÃ¡ pontual, seguro, sem erros ou interrupÃ§Ãµes.
+Nós não garantimos, representamos ou justificamos que o seu uso do nosso serviço será pontual, seguro, sem erros ou interrupções.
 
-NÃ£o garantimos que os resultados que possam ser obtidos pelo uso do serviÃ§o serÃ£o precisos ou confiÃ¡veis.
+Não garantimos que os resultados que possam ser obtidos pelo uso do serviço serão precisos ou confiáveis.
 
-VocÃª concorda que de tempos em tempos, podemos remover o serviÃ§o por perÃ­odos indefinidos de tempo ou cancelar a qualquer momento, sem te notificar.
+Você concorda que de tempos em tempos, podemos remover o serviço por períodos indefinidos de tempo ou cancelar a qualquer momento, sem te notificar.
 
-VocÃª concorda que o seu uso ou incapacidade de usar o serviÃ§o Ã© por sua conta e risco. O serviÃ§o e todos os produtos e serviÃ§os entregues atravÃ©s do serviÃ§o sÃ£o, exceto conforme declarado por nÃ³s) fornecidos sem garantia e conforme a disponibilidade para seu uso, sem qualquer representaÃ§Ã£o, garantias ou condiÃ§Ãµes de qualquer tipo, expressas ou implÃ­citas, incluindo todas as garantias implÃ­citas ou condiÃ§Ãµes de comercializaÃ§Ã£o, quantidade, adequaÃ§Ã£o a uma finalidade especÃ­fica, durabilidade, tÃ­tulo, e nÃ£o violaÃ§Ã£o.
+Você concorda que o seu uso ou incapacidade de usar o serviço é por sua conta e risco. O serviço e todos os produtos e serviços entregues através do serviço são, exceto conforme declarado por nós) fornecidos sem garantia e conforme a disponibilidade para seu uso, sem qualquer representação, garantias ou condições de qualquer tipo, expressas ou implícitas, incluindo todas as garantias implícitas ou condições de comercialização, quantidade, adequação a uma finalidade específica, durabilidade, título, e não violação.
 
-Em nenhuma circunstÃ¢ncia a Editora eTrix, nossos diretores, oficiais, funcionÃ¡rios, afiliados, agentes, contratantes, estagiÃ¡rios, fornecedores, prestadores de serviÃ§os ou licenciadores serÃ£o responsÃ¡veis por qualquer prejuÃ­zo, perda, reclamaÃ§Ã£o ou danos diretos, indiretos, incidentais, punitivos, especiais ou consequentes de qualquer tipo, incluindo, sem limitaÃ§Ã£o, lucros cessantes, perda de receita, poupanÃ§as perdidas, perda de dados, custos de reposiÃ§Ã£o, ou quaisquer danos semelhantes, seja com base em contrato, ato ilÃ­cito (incluindo negligÃªncia), responsabilidade objetiva ou de outra forma, decorrentes do seu uso de qualquer um dos serviÃ§os ou quaisquer produtos adquiridos usando o serviÃ§o, ou para qualquer outra reclamaÃ§Ã£o relacionada de alguma forma ao seu uso do serviÃ§o ou qualquer produto, incluindo, mas nÃ£o limitado a, quaisquer erros ou omissÃµes em qualquer conteÃºdo, ou qualquer perda ou dano de qualquer tipo como resultado do uso do serviÃ§o ou qualquer conteÃºdo (ou produto) publicado, transmitido ou de outra forma disponÃ­vel atravÃ©s do serviÃ§o, mesmo se alertado â€‹â€‹de tal possibilidade. Como alguns estados ou jurisdiÃ§Ãµes nÃ£o permitem a exclusÃ£o ou a limitaÃ§Ã£o de responsabilidade por danos consequentes ou incidentais, em tais estados ou jurisdiÃ§Ãµes, a nossa responsabilidade serÃ¡ limitada Ã  extensÃ£o mÃ¡xima permitida por lei.
+Em nenhuma circunstância a Editora eTrix, nossos diretores, oficiais, funcionários, afiliados, agentes, contratantes, estagiários, fornecedores, prestadores de serviços ou licenciadores serão responsáveis por qualquer prejuízo, perda, reclamação ou danos diretos, indiretos, incidentais, punitivos, especiais ou consequentes de qualquer tipo, incluindo, sem limitação, lucros cessantes, perda de receita, poupanças perdidas, perda de dados, custos de reposição, ou quaisquer danos semelhantes, seja com base em contrato, ato ilícito (incluindo negligência), responsabilidade objetiva ou de outra forma, decorrentes do seu uso de qualquer um dos serviços ou quaisquer produtos adquiridos usando o serviço, ou para qualquer outra reclamação relacionada de alguma forma ao seu uso do serviço ou qualquer produto, incluindo, mas não limitado a, quaisquer erros ou omissões em qualquer conteúdo, ou qualquer perda ou dano de qualquer tipo como resultado do uso do serviço ou qualquer conteúdo (ou produto) publicado, transmitido ou de outra forma disponível através do serviço, mesmo se alertado ??de tal possibilidade. Como alguns estados ou jurisdições não permitem a exclusão ou a limitação de responsabilidade por danos consequentes ou incidentais, em tais estados ou jurisdições, a nossa responsabilidade será limitada à extensão máxima permitida por lei.
 
 
-## SEÃ‡ÃƒO 12 - INDENIZAÃ‡ÃƒO
+## SEÇÃO 12 - INDENIZAÇÃO
 
-VocÃª concorda em indenizar, defender e isentar a Editora eTrix e nossos subsidiÃ¡rios, afiliados, parceiros, funcionÃ¡rios, diretores, agentes, contratados, licenciantes, prestadores de serviÃ§os subcontratados, fornecedores, estagiÃ¡rios e funcionÃ¡rios, de qualquer reclamaÃ§Ã£o ou demanda, incluindo honorÃ¡rios de advogados, por quaisquer terceiros devido Ã  violaÃ§Ã£o destes Termos de serviÃ§o ou aos documentos que incorporam por referÃªncia, ou Ã  violaÃ§Ã£o de qualquer lei ou os direitos de um terceiro.
+Você concorda em indenizar, defender e isentar a Editora eTrix e nossos subsidiários, afiliados, parceiros, funcionários, diretores, agentes, contratados, licenciantes, prestadores de serviços subcontratados, fornecedores, estagiários e funcionários, de qualquer reclamação ou demanda, incluindo honorários de advogados, por quaisquer terceiros devido à violação destes Termos de serviço ou aos documentos que incorporam por referência, ou à violação de qualquer lei ou os direitos de um terceiro.
 
 
-## SEÃ‡ÃƒO 13 - INDEPENDÃŠNCIA
+## SEÇÃO 13 - INDEPENDÊNCIA
 
-No caso de qualquer disposiÃ§Ã£o destes Termos de serviÃ§o ser considerada ilegal, nula ou ineficaz, tal disposiÃ§Ã£o deve, contudo, ser aplicÃ¡vel atÃ© ao limite mÃ¡ximo permitido pela lei aplicÃ¡vel, e a porÃ§Ã£o inexequÃ­vel serÃ¡ considerada separada desses Termos de serviÃ§o. Tal determinaÃ§Ã£o nÃ£o prejudica a validade e aplicabilidade de quaisquer outras disposiÃ§Ãµes restantes.
+No caso de qualquer disposição destes Termos de serviço ser considerada ilegal, nula ou ineficaz, tal disposição deve, contudo, ser aplicável até ao limite máximo permitido pela lei aplicável, e a porção inexequível será considerada separada desses Termos de serviço. Tal determinação não prejudica a validade e aplicabilidade de quaisquer outras disposições restantes.
 
 
-## SEÃ‡ÃƒO 14 - RESCISÃƒO
+## SEÇÃO 14 - RESCISÃO
 
-As obrigaÃ§Ãµes e responsabilidades das partes incorridas antes da data de rescisÃ£o devem continuar apÃ³s a rescisÃ£o deste acordo para todos os efeitos.
+As obrigações e responsabilidades das partes incorridas antes da data de rescisão devem continuar após a rescisão deste acordo para todos os efeitos.
 
-Estes Termos de ServiÃ§o estÃ£o em vigor, a menos que seja rescindido por vocÃª ou por nÃ³s. VocÃª pode rescindir estes Termos de serviÃ§o a qualquer momento, notificando-nos que jÃ¡ nÃ£o deseja utilizar os nossos serviÃ§os, ou quando vocÃª deixar de usar o nosso site.
+Estes Termos de Serviço estão em vigor, a menos que seja rescindido por você ou por nós. Você pode rescindir estes Termos de serviço a qualquer momento, notificando-nos que já não deseja utilizar os nossos serviços, ou quando você deixar de usar o nosso site.
 
-Se em nosso critÃ©rio exclusivo vocÃª nÃ£o cumprir com qualquer termo ou disposiÃ§Ã£o destes Termos de serviÃ§o, nÃ³s tambÃ©m podemos rescindir este contrato a qualquer momento sem aviso prÃ©vio e vocÃª ficarÃ¡ responsÃ¡vel por todas as quantias devidas atÃ© a data da rescisÃ£o; tambÃ©m podemos lhe negar acesso a nossos ServiÃ§os (ou qualquer parte deles).
+Se em nosso critério exclusivo você não cumprir com qualquer termo ou disposição destes Termos de serviço, nós também podemos rescindir este contrato a qualquer momento sem aviso prévio e você ficará responsável por todas as quantias devidas até a data da rescisão; também podemos lhe negar acesso a nossos Serviços (ou qualquer parte deles).
 
 
-## SEÃ‡ÃƒO 15 - ACORDO INTEGRAL
+## SEÇÃO 15 - ACORDO INTEGRAL
 
-Caso nÃ£o exerÃ§amos ou executemos qualquer direito ou disposiÃ§Ã£o destes Termos de serviÃ§o, isso nÃ£o constituirÃ¡ uma renÃºncia de tal direito ou disposiÃ§Ã£o.
+Caso não exerçamos ou executemos qualquer direito ou disposição destes Termos de serviço, isso não constituirá uma renúncia de tal direito ou disposição.
 
-Estes Termos de serviÃ§o e quaisquer polÃ­ticas ou normas operacionais postadas por nÃ³s neste site ou no que diz respeito ao serviÃ§o constituem a totalidade do acordo  entre nÃ³s. Estes termos regem o seu uso do ServiÃ§o, substituindo quaisquer acordos anteriores ou contemporÃ¢neos, comunicaÃ§Ãµes e propostas, sejam verbais ou escritos, entre vocÃª e nÃ³s (incluindo, mas nÃ£o limitado a quaisquer versÃµes anteriores dos Termos de serviÃ§o).
+Estes Termos de serviço e quaisquer políticas ou normas operacionais postadas por nós neste site ou no que diz respeito ao serviço constituem a totalidade do acordo  entre nós. Estes termos regem o seu uso do Serviço, substituindo quaisquer acordos anteriores ou contemporâneos, comunicações e propostas, sejam verbais ou escritos, entre você e nós (incluindo, mas não limitado a quaisquer versões anteriores dos Termos de serviço).
 
-Quaisquer ambiguidades na interpretaÃ§Ã£o destes Termos de serviÃ§o nÃ£o devem ser interpretadas contra a parte que os redigiu.
+Quaisquer ambiguidades na interpretação destes Termos de serviço não devem ser interpretadas contra a parte que os redigiu.
 
 
-## SEÃ‡ÃƒO 16 - LEGISLAÃ‡ÃƒO APLICÃVEL
+## SEÇÃO 16 - LEGISLAÇÃO APLICÁVEL
 
-Esses Termos de serviÃ§o e quaisquer acordos separados em que nÃ³s lhe fornecemos os ServiÃ§os devem ser regidos e interpretados de acordo com as leis brasileiras.
+Esses Termos de serviço e quaisquer acordos separados em que nós lhe fornecemos os Serviços devem ser regidos e interpretados de acordo com as leis brasileiras.
 
 
-## SEÃ‡ÃƒO 17 - ALTERAÃ‡Ã•ES DOS TERMOS DE SERVIÃ‡O
+## SEÇÃO 17 - ALTERAÇÕES DOS TERMOS DE SERVIÇO
 
-VocÃª pode rever a versÃ£o mais atual dos Termos de serviÃ§o a qualquer momento nessa pÃ¡gina.
+Você pode rever a versão mais atual dos Termos de serviço a qualquer momento nessa página.
 
-Reservamos o direito, a nosso critÃ©rio, de atualizar, modificar ou substituir qualquer parte destes Termos de serviÃ§o ao publicar atualizaÃ§Ãµes e alteraÃ§Ãµes no nosso site. Ã‰ sua responsabilidade verificar nosso site periodicamente. Seu uso contÃ­nuo ou acesso ao nosso site ou ao ServiÃ§o apÃ³s a publicaÃ§Ã£o de quaisquer alteraÃ§Ãµes a estes Termos de serviÃ§o constitui aceitaÃ§Ã£o dessas alteraÃ§Ãµes.
+Reservamos o direito, a nosso critério, de atualizar, modificar ou substituir qualquer parte destes Termos de serviço ao publicar atualizações e alterações no nosso site. É sua responsabilidade verificar nosso site periodicamente. Seu uso contínuo ou acesso ao nosso site ou ao Serviço após a publicação de quaisquer alterações a estes Termos de serviço constitui aceitação dessas alterações.
 
 
-## SEÃ‡ÃƒO 18 - INFORMAÃ‡Ã•ES DE CONTATO
+## SEÇÃO 18 - INFORMAÇÕES DE CONTATO
 
-As perguntas sobre os Termos de serviÃ§o devem ser enviadas para nÃ³s atravÃ©s do infos@criatividade.digital.
-
+As perguntas sobre os Termos de serviço devem ser enviadas para nós através do infos@criatividade.digital.
