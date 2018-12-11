@@ -22,7 +22,7 @@ permalink: /experimento/0016/
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
 1. Nesta aula você vai recriar a música *Let It Go*.
-1. Use este link para abrir o Soundtrap. O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
+1. [Use este link para abrir o Soundtrap.](https://www.soundtrap.com/studio/?import_url=https://criatividade.digital/assets/experimentos/0016/LetItGo.mid&import_url_type=midi&import_url_title=Let+it+go){:target="_blank"} O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
 
 **Informação:** Caso você já tenha um áudio base gravado em outro tutorial você pode reaproveitá-lo. Pule o procedimento abaixo e vá direto ao item **Aplicando o efeito "Minions"**. :wink:
 {: .notice--info}
