@@ -22,7 +22,48 @@ permalink: /experimento/0016/
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
 1. Nesta aula você vai recriar a música *Let It Go*.
-1. [Use este link para abrir o Soundtrap.](https://www.soundtrap.com/studio/?import_url=https://criatividade.digital/assets/experimentos/0016/LetItGo.mid&import_url_type=midi&import_url_title=Let+it+go){:target="_blank"} O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
+1. Montagem da base da música.
+   - [Use este link para abrir o Soundtrap.](https://www.soundtrap.com/studio/?import_url=https://criatividade.digital/assets/experimentos/0016/LetItGo.mid&import_url_type=midi&import_url_title=Let+it+go){:target="_blank"} O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
+   - Arraste, para criar a quarta trilha, o arquivo o arquivo "a cappella.mp3" que você baixou do [link](https://drive.google.com/open?id=1NTF7GeiizvQtnb-wEr44QlsI-FKMMRZK) e que contém o vocal da música. Ele já está sincronizado com o conteúdo das trilhas MIDI.
+   - Ajuste o volume da trilha 4 "a cappella" para que o áudio do vocal da música fique maior do que a trilha de instrumentos.
+   - Pressione o botão de "Play" ou a "barra de espaço" para iniciar a música.
+   - Pressione o botão de "Stop" ou a "barra de espaço" para parar a música.
+1. Alteração do instrumento MIDI
+   - Pressione "Enter" ou arraste o cursor para o início da música. 
+   - Altere o instrumento da primeira trilha de "Grand Piano" para "String" + "String Section".
+   - Pressione o botão de "Play" ou a "barra de espaço" para iniciar a música.
+   - Pressione o botão de "Stop" ou a "barra de espaço" para parar a música.
+
+Pronto! :smile: 
+Seguindo os poucos passos acima você reconstruiu uma versão básica da música Let It Go! Caso queira ir mais longe, você pode personalizá-la. Confira alguns exemplos no passo-a-passo apresentado abaixo.
+1. Criando uma "batida" personalizada na música.
+   - Altere o cursor para a posição 02:42.3 da música.
+   - Adicione uma nova trilha (Add New Track) do tipo "Drum & beats".
+   - Selecione a opção "Patterns".
+   - Escolha os efeitos de "Kick" na primeira linha e "Snare" na segunda linha.
+   - Monte a sua batida. Se estiver em dúvida, siga o padrão sugerido abaixo:
+   ![Exemplo padrão Drum & beats](/assets/experimentos/0016/pattern01.png).
+   - Replique (loop) a batida até a posição 03:00.0 da música.
+   - Feche a janela de instrumentos.
+   - Posicione o cursor na posição 02:38.8 da música e pressione "espaço" para ouvir o resultado.
+   - Pressione novamente "espaço" para parar a música.
+1. Acrescentando uma transição e um som de guitarra.
+   - Altere o cursor para a posição 03:00.0 da música.
+   - Adicione uma nova trilha (Add New Track) do tipo "Drum & beats".
+   - Selecione a opção "Patterns".
+   - Escolha o efeito de "Kick" para a primeira linha e marque todas as posições como indicado na imagem abaixo:![Padrão de transição](/assets/experimentos/0016/pattern02.png).
+   - Replique (loop) a batida até a posição 03:03.5 da música.
+   - Feche a janela de instrumentos.
+
+
+
+
+
+
+
+
+
+
 
 **Informação:** Caso você já tenha um áudio base gravado em outro tutorial você pode reaproveitá-lo. Pule o procedimento abaixo e vá direto ao item **Aplicando o efeito "Minions"**. :wink:
 {: .notice--info}
