@@ -96,7 +96,7 @@ Seguindo os poucos passos acima você reconstruiu uma versão básica da música
    - Pressione novamente "espaço" para parar a música.
 
 Gostou? :smile: <br> 
-Se você chegou até aqui já aprendeu muito sobre como funciona DAW (Digital Audio Workstation - Estação de Trabalho de Áudio Digital). Mas, reservamos para o final uma última dica...
+Se você chegou até aqui, já aprendeu muito sobre como funciona DAW (Digital Audio Workstation - Estação de Trabalho de Áudio Digital). Mas, reservamos para o final uma última dica...
 
 1. Retirando o vocal durante o solo de guitarra.
   - Na trilha "a cappella" abra a opção "automation".
