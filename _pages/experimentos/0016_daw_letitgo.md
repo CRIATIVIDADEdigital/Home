@@ -27,7 +27,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. [Neste roteiro você vai recriar a música *Let It Go*.](https://youtu.be/TYDEADSsza8){:target="_blank"}
 1. Montagem da base da música.
    - [Use este link para abrir o Soundtrap.](https://www.soundtrap.com/studio/?import_url=https://criatividade.digital/assets/experimentos/0016/LetItGo.mid&import_url_type=midi&import_url_title=Let+it+go){:target="_blank"} O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
-   - [Arraste, para criar a quarta trilha, o arquivo o arquivo "a cappella.mp3"](https://youtu.be/TYDEADSsza8?t=6){:target="_blank"} que você baixou do [link](https://drive.google.com/open?id=1NTF7GeiizvQtnb-wEr44QlsI-FKMMRZK) e que contém o vocal da música. Ele já está sincronizado com o conteúdo das trilhas MIDI.
+   - [Arraste, para criar a quarta trilha, o arquivo "a cappella.mp3"](https://youtu.be/TYDEADSsza8?t=6){:target="_blank"} que você baixou do [link](https://drive.google.com/open?id=1NTF7GeiizvQtnb-wEr44QlsI-FKMMRZK){:target="_blank"} e que contém o vocal da música. Ele já está sincronizado com o conteúdo das trilhas MIDI.
    - [Ajuste o volume das trilhas](https://youtu.be/TYDEADSsza8?t=19){:target="_blank"} de forma que a trilha 4, de nome "a cappella", contendo o áudio com o vocal da música, fique maior do que o das trilhas de instrumentos.
    - [Pressione o botão de "Play"](https://youtu.be/TYDEADSsza8?t=38){:target="_blank"} ou a "barra de espaço" para iniciar a música.
    - [Pressione o botão de "Stop"](https://youtu.be/TYDEADSsza8?t=55){:target="_blank"} ou a "barra de espaço" para parar a música.
@@ -44,20 +44,20 @@ Pronto! :smile: <br>
 Seguindo os poucos passos acima você reconstruiu uma versão básica da música Let It Go! Caso queira ir mais longe, você pode personalizá-la. Confira alguns exemplos no passo-a-passo apresentado abaixo.
 4. Criando uma "batida" personalizada na música.
    - [Altere o cursor para a posição 02:45.8 da música.](https://youtu.be/TYDEADSsza8?t=101){:target="_blank"}
-   - [Adicione uma nova trilha](https://youtu.be/TYDEADSsza8?t=124){:target="_blank"} (*Add New Track*) do tipo "*Drum & beats*".
+   - [Adicione uma nova trilha](https://youtu.be/TYDEADSsza8?t=124){:target="_blank"} (*Add New Track* ) do tipo "*Drum & beats*".
    - [Selecione a opção "Patterns".](https://youtu.be/TYDEADSsza8?t=131){:target="_blank"}
    - [Arraste o ciclo](https://youtu.be/TYDEADSsza8?t=135){:target="_blank"} para que tenha início na posição atual da música (02:45.8).
    - [Escolha](https://youtu.be/TYDEADSsza8?t=142){:target="_blank"} os efeitos de "Kick" na primeira linha e "Snare" na segunda linha.
    - [Monte a sua batida.](https://youtu.be/TYDEADSsza8?t=147){:target="_blank"} Use a barra de "espaço" para ouvir o padrão criado. Se estiver em dúvida, siga o padrão sugerido abaixo:
    ![Exemplo padrão Drum & beats](/assets/experimentos/0016/pattern01.png)
    - [Feche a janela de "patterns".](https://youtu.be/TYDEADSsza8?t=164){:target="_blank"}
-   - [Altere o nome (*rename*) desta trilha para "Batida1".](https://youtu.be/TYDEADSsza8?t=166){:target="_blank"}
-   - [Replique (loop) a batida até a posição 03:00.0 da música.](https://youtu.be/TYDEADSsza8?t=174){:target="_blank"}
+   - [Altere o nome (*rename* ) desta trilha para "Batida1".](https://youtu.be/TYDEADSsza8?t=166){:target="_blank"}
+   - [Replique (*loop* ) a batida até a posição 03:00.0 da música.](https://youtu.be/TYDEADSsza8?t=174){:target="_blank"}
    - [Posicione o cursor na posição 02:38.8 da música](https://youtu.be/TYDEADSsza8?t=191){:target="_blank"} e pressione "espaço" para ouvir o resultado.
    - Pressione novamente "espaço" para parar a música.
 1. Acrescentando uma transição para um solo de guitarra.
    - [Altere o cursor para a posição 03:00.0 da música.](https://youtu.be/TYDEADSsza8?t=215){:target="_blank"}
-   - [Adicione uma nova trilha](https://youtu.be/TYDEADSsza8?t=230){:target="_blank"} (*Add New Track*) do tipo "*Drum & beats*".
+   - [Adicione uma nova trilha](https://youtu.be/TYDEADSsza8?t=230){:target="_blank"} (*Add New Track* ) do tipo "*Drum & beats*".
    - [Selecione a opção "Patterns".](https://youtu.be/TYDEADSsza8?t=240){:target="_blank"}
    - [Arraste o ciclo](https://youtu.be/TYDEADSsza8?t=244){:target="_blank"} para que tenha início na posição atual da música (03:00.0).
    - [Escolha o efeito de "*Kick*"](https://youtu.be/TYDEADSsza8?t=251){:target="_blank"} para a primeira linha e marque todas as posições como indicado na imagem abaixo:![Padrão de transição](/assets/experimentos/0016/pattern02.png)
@@ -70,16 +70,16 @@ Seguindo os poucos passos acima você reconstruiu uma versão básica da música
    - [Duplique a trilha 1](https://youtu.be/TYDEADSsza8?t=307){:target="_blank"} (*Duplicate track* ) de nome *"String Section"*.
    - [Arraste a trilha duplicada (trilha 2)](https://youtu.be/TYDEADSsza8?t=312){:target="_blank"} e a posicione como última trilha na música.
    - [Altere o nome (*rename* )](https://youtu.be/TYDEADSsza8?t=317){:target="_blank"}  desta trilha para "Guitarra".
-   - [Excluir primeiro trecho desta trilha.](https://youtu.be/TYDEADSsza8?t=327){:target="_blank"}
+   - [Excluir o primeiro trecho desta trilha.](https://youtu.be/TYDEADSsza8?t=327){:target="_blank"}
      - Altere o cursor para a posição 03:02.6 da música.
-     - Clique com o botão ESQUERDO do mouse] exatamente sobre o cruzamento da trilha "Guitarra" com a linha atual do cursor da música.
+     - Clique com o botão ESQUERDO do mouse exatamente sobre o cruzamento da trilha "Guitarra" com a linha atual do cursor da música.
      - Clique com o botão DIREITO do mouse sobre a trilha "Guitarra" e escolha a opção de menu *Split region*.
-     - Selecione com o mouse a parte esquerda da trilha que foi dividida e pressione a tecla "Del" para apagá-lo.
+     - Selecione com o mouse a parte esquerda da trilha que foi dividida e pressione a tecla "Del" para apagá-la.
    - [Excluir o segundo trecho desta trilha.](https://youtu.be/TYDEADSsza8?t=347){:target="_blank"}
      - Altere o cursor para a posição 03:30.8 da música.
      - Clique com o botão ESQUERDO do mouse exatamente sobre o cruzamento da trilha "Guitarra" com a linha atual do cursor da música.
      - Clique com o botão DIREITO do mouse sobre a trilha "Guitarra" e escolha a opção de menu *Split region*.
-     - Selecione com o mouse a parte direita da trilha que foi dividida e pressione a tecla "Del" para apagá-lo.
+     - Selecione com o mouse a parte direita da trilha que foi dividida e pressione a tecla "Del" para apagá-la.
    - [Altere o instrumento desta mesma trilha (Guitarra)](https://youtu.be/TYDEADSsza8?t=377){:target="_blank"} de “Strings” para “Guitar and Bass" + “Rock” + "Mountain Top Lead".
    - [Feche a janela "Instrument Presets".](https://youtu.be/TYDEADSsza8?t=390){:target="_blank"}
    - [Feche a janela "Instrument".](https://youtu.be/TYDEADSsza8?t=392){:target="_blank"} 
@@ -101,7 +101,7 @@ Seguindo os poucos passos acima você reconstruiu uma versão básica da música
    - Pressione novamente "espaço" para parar a música.
 
 Gostou? :smile: <br> 
-Se você chegou até aqui, já aprendeu muito sobre como funciona DAW (Digital Audio Workstation) - Estação de Trabalho de Áudio Digital). Mas, reservamos para o final uma última dica...
+Se você chegou até aqui, já aprendeu muito sobre como funciona um DAW (Digital Audio Workstation - Estação de Trabalho de Áudio Digital). Mas, reservamos para o final uma última dica...
 
 1. [Retirando o vocal durante o solo de guitarra.](https://youtu.be/TYDEADSsza8?t=527){:target="_blank"}
   - Na trilha "a cappella" abra a opção "automation".
