@@ -77,7 +77,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
    - Alterar loop para que ocupe as posições de 29 a 30 da trilha.
    - Incluir o loop "SFX - Ghost 2" na posição 41 da trilha.
    - Alterar loop para que ocupe as posições de 41 a 42 da trilha.
-1. [Alterar o volume](https://youtu.be/dNJjZNU-eUA?t=540){:target="_blank"}  das trilhas para que estejam com o mesmo valor.
+1. [Alterar o volume](https://youtu.be/dNJjZNU-eUA?t=540){:target="_blank"}  das trilhas para que estejam todas com o mesmo valor.
 1. Ouvindo a música construída
    - Pressione "Enter" ou [arraste o cursor](https://youtu.be/dNJjZNU-eUA?t=573){:target="_blank"} para o início da música. 
    - [Pressione o botão de "Play"](https://youtu.be/dNJjZNU-eUA?t=576){:target="_blank"} ou a "barra de espaço" para iniciar a música.
