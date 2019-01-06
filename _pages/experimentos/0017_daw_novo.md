@@ -1,5 +1,5 @@
 ---
-title: "Criando uma música"
+title: "Criando uma nova música usando o Soundtrap"
 excerpt: "Criando uma música usando DAW (Digital Audio Workstation - Estação de Trabalho de Áudio Digital)"
 sitemap: false 
 header: 
