@@ -20,7 +20,7 @@ permalink: /experimento/0017/
 ## Passo a passo
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
-1. Nesta aula você vai criar uma música do zero. [Use este link para abrir o Soundtrap.](https://www.soundtrap.com/publicapi/import/soundcloud1/?url=https://api.soundcloud.com/tracks/){:target="_blank"} O link abre o Soundtrap sem nenhuma trilha de música. 
+1. Nesta aula você vai criar uma música do zero. Use este link para abrir o Soundtrap: [bit.ly/2FjNNDz.](https://www.soundtrap.com/publicapi/import/soundcloud1/?url=https://api.soundcloud.com/tracks/){:target="_blank"} O link abre o Soundtrap sem nenhuma trilha de música. 
 1. [Defina o "Tempo" da música com o valor 130.](https://youtu.be/dNJjZNU-eUA){:target="_blank"} 
 1. [Primeira trilha da música](https://youtu.be/dNJjZNU-eUA?t=11){:target="_blank"} 
    - Incluir o loop "Strings - Section 6" no início da trilha.

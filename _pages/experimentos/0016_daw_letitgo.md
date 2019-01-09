@@ -26,7 +26,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 
 1. [Neste roteiro você vai recriar a música *Let It Go*.](https://youtu.be/TYDEADSsza8){:target="_blank"}
 1. Montagem da base da música.
-   - [Use este link para abrir o Soundtrap.](https://www.soundtrap.com/studio/?import_url=https://criatividade.digital/assets/experimentos/0016/LetItGo.mid&import_url_type=midi&import_url_title=Let+it+go){:target="_blank"} O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
+   - Use este link para abrir o Soundtrap: [bit.ly/2FjNNDz.](https://www.soundtrap.com/studio/?import_url=https://criatividade.digital/assets/experimentos/0016/LetItGo.mid&import_url_type=midi&import_url_title=Let+it+go){:target="_blank"} O link abre o Soundtrap e automaticamente carrega a trilha MIDI da música. 
    - [Arraste, para criar a quarta trilha, o arquivo "a cappella.mp3"](https://youtu.be/TYDEADSsza8?t=6){:target="_blank"} que você baixou do [link](https://drive.google.com/open?id=1NTF7GeiizvQtnb-wEr44QlsI-FKMMRZK){:target="_blank"} e que contém o vocal da música. Ele já está sincronizado com o conteúdo das trilhas MIDI.
    - [Ajuste o volume das trilhas](https://youtu.be/TYDEADSsza8?t=19){:target="_blank"} de forma que a trilha 4, de nome "a cappella", contendo o áudio com o vocal da música, fique maior do que o das trilhas de instrumentos.
    - [Pressione o botão de "Play"](https://youtu.be/TYDEADSsza8?t=38){:target="_blank"} ou a "barra de espaço" para iniciar a música.
