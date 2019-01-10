@@ -14,10 +14,10 @@ permalink: /experimento/0011/
 {% include toc %}
 
 ## Material
-* Peças LEGO&copy;.
-* Bonecos LEGO&copy;.
-  - No tutorial usamos: Emma (LEGO&copy; Friends Emma's workshop); Aurora e coelho (LEGO&copy; Princesas Bela Adormecida) e Playmobil Figuras - Princesa (6841 Série 10 P3) 
-* 1 Base LEGO&copy; Classic.
+* Peças LEGO&reg;.
+* Bonecos LEGO&reg;.
+  - No tutorial usamos: Emma (LEGO&reg; Friends Emma's workshop); Aurora e coelho (LEGO&reg; Princesas Bela Adormecida) e Playmobil Figuras - Princesa (6841 Série 10 P3) 
+* 1 Base LEGO&reg; Classic.
   - No tutorial usamos a base azul.
 * 1 Celular ou câmera fotográfica.
   - No tutorial usamos um celular.
@@ -32,18 +32,15 @@ Antes de iniciar a montagem, assista todo o vídeo abaixo.
 ## Passo a passo
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
-**Importante:** Não faça esta atividade sem a supervisão de um adulto! 
-{: .notice--danger}
-
 1. Planejar o roteiros da sua animação
    - Organize a "história" que você pretende gravar.
    - Pense e experimente os movimentos dos personagens ou dos objetos.
    - Registre a ideia do seu roteiro por meio de textos e desenhos.
 1. Preparar o ambiente para a captura das imagens
    - Verifique se a iluminação está adequada para a captura das imagens.
-   - [Fixe a base LEGO&copy; Classic com fita adesiva.](https://youtu.be/lrBRMGpde6k?t=1m0s){:target="_blank"}
+   - [Fixe a base LEGO&reg; Classic com fita adesiva.](https://youtu.be/lrBRMGpde6k?t=1m0s){:target="_blank"}
    - Posicione e fixe a câmera na frente da base.
-     - [Se estiver usando celular, use as peças LEGO&copy; e o lenço de papel para fixá-lo na frente da base.](https://youtu.be/lrBRMGpde6k?t=1m43s){:target="_blank"}
+     - [Se estiver usando celular, use as peças LEGO&reg; e o lenço de papel para fixá-lo na frente da base.](https://youtu.be/lrBRMGpde6k?t=1m43s){:target="_blank"}
    - Organize os objetos na cena.
    - Capture algumas imagens para verificar se está tudo pronto.
      - Observe se a imagem está capturando toda a cena.

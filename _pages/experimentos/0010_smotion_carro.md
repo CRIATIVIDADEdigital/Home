@@ -28,9 +28,6 @@ Antes de iniciar a montagem, assista todo o vídeo abaixo.
 ## Passo a passo
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
-**Importante:** Não faça esta atividade sem a supervisão de um adulto! 
-{: .notice--danger}
-
 1. Planejar o roteiros da sua animação
    - Organize a "história" que você pretende gravar.
    - Pense e experimente os movimentos dos personagens ou dos objetos.
