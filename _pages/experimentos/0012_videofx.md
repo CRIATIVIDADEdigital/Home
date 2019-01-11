@@ -26,9 +26,6 @@ permalink: /experimento/0012/
 ## Passo a passo
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
-**Importante:** Não faça esta atividade sem a supervisão de um adulto! 
-{: .notice--danger}
-
 1. Nesta aula queremos que você construa a sua própria história.
 1. Planejamento
    1. Planejar o roteiro do seu vídeo
@@ -54,7 +51,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. Pronto!
 
 ## Como incluir efeitos especiais no VideoPad
-   - [Exemplo: como fizemos a entrada da Moranguinho na cena.](https://youtu.be/wAvn0267Otk){:target="_blank"}
+   - [Exemplo: como fizemos a entrada da Moranguinho na cena.](https://youtu.be/wmmlmYykA44){:target="_blank"}
    - [Exemplo: como fizemos a saída do Homem-Aranha.](https://youtu.be/h_6GBU5QN0s){:target="_blank"}
 
 ## Dicas
