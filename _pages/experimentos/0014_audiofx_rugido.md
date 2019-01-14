@@ -3,11 +3,13 @@ title: "Efeitos de áudio - Rugido"
 excerpt: "Manipulando áudio e criando efeitos especiais - Rugido."
 sitemap: false 
 header: 
-  teaser: "/assets/experimentos/0012/thumb.jpg" 
+  teaser: "/assets/experimentos/0014/thumb.jpg" 
 author_profile: false
 permalink: /experimento/0014/
 ---
 ![Linha separadora](/assets/images/line.jpg)
+
+![Onde de áudio](/assets/experimentos/0014/thumb.jpg)
 
 {% include toc %}
 

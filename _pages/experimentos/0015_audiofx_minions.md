@@ -3,11 +3,13 @@ title: "Efeitos de áudio - Minions"
 excerpt: "Manipulando áudio e criando efeitos especiais - Minions."
 sitemap: false 
 header: 
-  teaser: "/assets/experimentos/0012/thumb.jpg" 
+  teaser: "/assets/experimentos/0015/thumb.jpg" 
 author_profile: false
 permalink: /experimento/0015/
 ---
 ![Linha separadora](/assets/images/line.jpg)
+
+![Onde de áudio](/assets/experimentos/0015/thumb.jpg)
 
 {% include toc %}
 
