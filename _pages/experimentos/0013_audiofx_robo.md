@@ -3,11 +3,14 @@ title: "Efeitos de áudio - Voz de robô"
 excerpt: "Manipulando áudio e criando efeitos especiais - Rugido."
 sitemap: false 
 header: 
-  teaser: "/assets/experimentos/0012/thumb.jpg" 
+  teaser: "/assets/experimentos/0013/thumb.jpg" 
 author_profile: false
+
 permalink: /experimento/0013/
 ---
 ![Linha separadora](/assets/images/line.jpg)
+
+![Onda de áudio](/assets/experimentos/0013/thumb.jpg)
 
 {% include toc %}
 
