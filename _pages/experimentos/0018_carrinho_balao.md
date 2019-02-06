@@ -27,6 +27,7 @@ permalink: /experimento/0018/
 * 4 palitos de sorvete.
 * Chave de fenda phillips pequena.
 * Chave de fenda phillips média.
+* Fita adesiva.
 
 ## Como montar
 Antes de iniciar a montagem, assista todo o vídeo abaixo.
