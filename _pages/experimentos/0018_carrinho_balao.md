@@ -24,7 +24,7 @@ permalink: /experimento/0018/
 * Marcador permanente (preto ou azul).
 * Balão de festa (tamanho 9" ou 23cm).
 * Pistola + bastões de cola quente.
-* 4 palitos de sorvete.
+* 5 palitos de sorvete.
 * Chave de fenda phillips pequena.
 * Chave de fenda phillips média.
 * Fita adesiva.
