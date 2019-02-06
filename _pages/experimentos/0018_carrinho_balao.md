@@ -36,7 +36,7 @@ Antes de iniciar a montagem, assista todo o vídeo abaixo.
 ## Passo a passo
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
 
-**Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar o seus óculos de proteção. :sunglasses: 
+**Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar  seu óculos de proteção. :sunglasses: 
 {: .notice--danger}
 
 **Evite queimaduras.** Não toque na ponta da pistola e na cola quente. :fire:
