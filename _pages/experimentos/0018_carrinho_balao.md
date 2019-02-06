@@ -45,7 +45,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. [Segurança em primeiro lugar!](https://youtu.be/jtOXV86EMvY){:target="_blank"}
 1. [Confira os materiais necessários.](https://youtu.be/jtOXV86EMvY?t=5){:target="_blank"}
 1. Montagem do chassis.
-   1. [Use a tesoura para recortar as pontas do palito de churrasco.](https://youtu.be/jtOXV86EMvY?t=31){:target="_blank"}
+   1. [Use a tesoura para cortar as pontas do palito de churrasco.](https://youtu.be/jtOXV86EMvY?t=31){:target="_blank"}
    1. [Use os dois palitos de sorvete como base para colar os dois palitos de churrasco.](https://youtu.be/jtOXV86EMvY?t=73){:target="_blank"}
    1. [Reforce com cola quente as juntas do chassis.](https://youtu.be/jtOXV86EMvY?t=126){:target="_blank"}
 1. Montagem do suporte para cada eixo das rodas.
@@ -62,7 +62,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
    1. [Retire do chassis os excessos de cola quente.](https://youtu.be/jtOXV86EMvY?t=506){:target="_blank"}
    1. [Coloque duas tampinhas em cada um dos eixos (palito de churrasco) das rodas.](https://youtu.be/jtOXV86EMvY?t=520){:target="_blank"}
    1. [Marque com a caneta a posição das rodas para diminuir o tamanho de cada um dos dois eixos de roda.](https://youtu.be/jtOXV86EMvY?t=558){:target="_blank"}
-   1. [Retire os eixos do chassis e use a tesoura para recortar na respectiva posição marcada.](https://youtu.be/jtOXV86EMvY?t=565){:target="_blank"}
+   1. [Retire os eixos do chassis e use a tesoura para cortar na respectiva posição marcada.](https://youtu.be/jtOXV86EMvY?t=565){:target="_blank"}
    1. [Recoloque os eixos no chassis e posicione as rodas.](https://youtu.be/jtOXV86EMvY?t=603){:target="_blank"}
    1. [Ajuste a posição de cada roda nos eixos e use cola quente para fixá-las.](https://youtu.be/jtOXV86EMvY?t=632){:target="_blank"}
 1. Montagem do propulsor a ar (balão)
