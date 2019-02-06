@@ -80,5 +80,5 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
    1. [Coloque uma pequena porção de cola quente](https://youtu.be/jtOXV86EMvY?t=817){:target="_blank"} em cada uma das 4 marcas.
    1. [Cole um palito de sorvete em cada uma das posições.](https://youtu.be/jtOXV86EMvY?t=833){:target="_blank"}
    1. [Usando cola quente fixe o propulsor (canudo + balão)](https://youtu.be/jtOXV86EMvY?t=848){:target="_blank"} na traseira do carrinho.
-   1. [Aguarde, no mínimo, um minuto para que a cola quente endureça.](https://youtu.be/jtOXV86EMvY?t=869){:target="_blank"} na traseira do carrinho.
+   1. [Aguarde, no mínimo, um minuto para que a cola quente endureça](https://youtu.be/jtOXV86EMvY?t=869){:target="_blank"} na traseira do carrinho.
 1. [Pronto!](https://youtu.be/jtOXV86EMvY?t=897){:target="_blank"} Retire os excessos de cola, infle o balão e veja como o seu carrinho está funcionando.
