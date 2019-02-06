@@ -61,7 +61,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. Eixo + rodas.
    1. [Retire do chassis os excessos de cola quente.](https://youtu.be/jtOXV86EMvY?t=506){:target="_blank"}
    1. [Coloque duas tampinhas em cada um dos eixos (palito de churrasco) das rodas.](https://youtu.be/jtOXV86EMvY?t=520){:target="_blank"}
-   1. [Marque com a caneta a posição das rodas para ajustar o tamanho de cada um dos dois eixos de roda.](https://youtu.be/jtOXV86EMvY?t=558){:target="_blank"}
+   1. [Marque com a caneta a posição das rodas para diminuir o tamanho de cada um dos dois eixos de roda.](https://youtu.be/jtOXV86EMvY?t=558){:target="_blank"}
    1. [Retire os eixos do chassis e use a tesoura para recortar na respectiva posição marcada.](https://youtu.be/jtOXV86EMvY?t=565){:target="_blank"}
    1. [Recoloque os eixos no chassis e posicione as rodas.](https://youtu.be/jtOXV86EMvY?t=603){:target="_blank"}
    1. [Ajuste a posição de cada roda nos eixos e use cola quente para fixá-las.](https://youtu.be/jtOXV86EMvY?t=632){:target="_blank"}
