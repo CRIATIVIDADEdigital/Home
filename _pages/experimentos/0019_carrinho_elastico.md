@@ -34,7 +34,7 @@ Antes de iniciar a montagem, assista todo o vídeo abaixo.
 {% include youtubePlayer.html id="E4KgdGM2_Co" %}
 
 ## Passo a passo
-Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile:
+Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile: Qualquer dúvida na construção, use o link (texto azul) para abrir o vídeo que apresenta como realizar aquele passo.
 
 **Importante:** Não faça esta atividade sem a supervisão de um adulto! Não esqueça de usar  seu óculos de proteção. :sunglasses: 
 {: .notice--danger}
