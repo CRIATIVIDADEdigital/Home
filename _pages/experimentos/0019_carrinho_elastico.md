@@ -79,11 +79,11 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
    1. [Aguarde, no mínimo, um minuto para que a cola quente endureça totalmente.](https://youtu.be/kzkJl6VtvHw?t=893){:target="_blank"}
 1. [Pronto!](https://youtu.be/kzkJl6VtvHw?t=919){:target="_blank"} Prenda o elástico nos suportes e gire a roda para acumular energia. :wink:
 
-**Importante:** Dependendo da superficie em que você coloque o carrinho a energia do elástico transferida para o eixo vai fazer a roda patinar. :open_mouth: Os passos apresentados abaixo são para minimizar este problema.  
+**Importante:** Dependendo da superficie em que você coloque o carrinho, a energia do elástico transferida para o eixo vai fazer a roda patinar. :open_mouth: Os passos apresentados abaixo são para minimizar este problema.  
 {: .notice--info}
 
 1. Aumentando o atrito nas rodas (tampinhas).
-   1. [Recorte as pontas dos dois balões com o tamanho similar a largura das rodas.](https://youtu.be/kzkJl6VtvHw?t=960){:target="_blank"}
+   1. [Recorte as pontas dos dois balões com o tamanho similar à largura das rodas.](https://youtu.be/kzkJl6VtvHw?t=960){:target="_blank"}
    1. [Revista as rodas traseiras com as pontas recortadas dos balões.](https://youtu.be/kzkJl6VtvHw?t=998){:target="_blank"}
    1. Para aumentar ainda mais o atrito nas rodas traseiras, cole no chassis dois pesos próximos as estas rodas. [No vídeo nós colamos duas pilhas usadas para aumentar o peso na parte traseira do carrinho.](https://youtu.be/kzkJl6VtvHw?t=1083){:target="_blank"}
  
