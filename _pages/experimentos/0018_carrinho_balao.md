@@ -66,7 +66,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
    1. [Recoloque os eixos no chassis e posicione as rodas.](https://youtu.be/jtOXV86EMvY?t=603){:target="_blank"}
    1. [Ajuste a posição de cada roda nos eixos e use cola quente para fixá-las.](https://youtu.be/jtOXV86EMvY?t=632){:target="_blank"}
 1. Montagem do propulsor a ar (balão)
-   1. Balões novos são mais difíceis de encher. Então, antes da monagem do propulsor, [encha o balão pelo menos duas vezes.](https://youtu.be/jtOXV86EMvY?t=687){:target="_blank"}
+   1. Balões novos são mais difíceis de encher. Então, antes da montagem do propulsor, [encha o balão pelo menos duas vezes.](https://youtu.be/jtOXV86EMvY?t=687){:target="_blank"}
    1. [Use fita adesiva e prenda o balão no canudo.](https://youtu.be/jtOXV86EMvY?t=703){:target="_blank"}
    1. Sopre o canudo e verifique se não está escapando ar do balão.
 1. Fixar propulsor no chassis
