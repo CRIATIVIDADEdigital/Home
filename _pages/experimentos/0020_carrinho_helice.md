@@ -77,7 +77,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
    1. [Marque com a caneta a posição das rodas para diminuir o tamanho de cada um dos dois eixos de roda.](https://youtu.be/GEP9kQSj5HE?t=551){:target="_blank"}
    1. [Retire os eixos do chassis e use a tesoura para cortar na respectiva posição marcada.](https://youtu.be/GEP9kQSj5HE?t=558){:target="_blank"}
    1. [Recoloque os eixos no chassis e posicione as rodas.](https://youtu.be/GEP9kQSj5HE?t=605){:target="_blank"}
-   1. [Ajuste a posição de cada roda nos eixos e use cola quente para fixá-las.](https://youtu.be/GEP9kQSj5HE?t=625){:target="_blank"}
+   1. [Ajuste a posição de cada roda nos eixos.](https://youtu.be/GEP9kQSj5HE?t=625){:target="_blank"}
 1. Preparação dos cabinhos flexíveis.
    1. [Corte 10 cm do cabinho flexível](https://youtu.be/GEP9kQSj5HE?t=10m38s){:target="_blank"} e depois use o alicate para [desencapar 1,5 cm em cada um dos lados](https://youtu.be/GEP9kQSj5HE?t=11m18s){:target="_blank"}.
    1. [Também desencape 1,5 cm dos cabinhos](https://youtu.be/GEP9kQSj5HE?t=12m47s){:target="_blank"} flexíveis existentes no suporte para as pilhas AA. 
