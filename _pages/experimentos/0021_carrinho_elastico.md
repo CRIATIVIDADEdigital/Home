@@ -37,7 +37,7 @@ permalink: /experimento/0021/
 
 ## Como montar
 Antes de iniciar a montagem, assista todo o vídeo abaixo.
-{% include youtubePlayer.html id="q9SwSls8j_s" %}
+{% include youtubePlayer.html id="HSkg9tCdLZg" %}
 
 ## Passo a passo
 Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smile: Qualquer dúvida na construção, use o link (texto azul) para abrir o vídeo que apresenta como realizar aquele passo.
