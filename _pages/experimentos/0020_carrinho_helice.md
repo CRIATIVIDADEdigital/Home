@@ -132,7 +132,6 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. Para concluir, [cole o botão liga/desliga na lateral](https://youtu.be/GEP9kQSj5HE?t=36m13s){:target="_blank"} do fundo da garrafa PET.
 1. Pronto! Aguarde um minuto para que a cola endureça, ligue o motor e divirta-se com o [seu carrinho](https://youtu.be/GEP9kQSj5HE?t=36m34s){:target="_blank"}. :wink:
 
-RETIRAR COLA (VIDEO + ATUALIZAR ROTEIRO)
 ## Dicas
 1. <a name="dica-multimetro"></a>Usando o multímetro para verificar [se a pilha está carregada](https://youtu.be/LdMeAHbWW98){:target="_blank"}.
 1. <a name="dica-descolar"></a>Retirando a cola
