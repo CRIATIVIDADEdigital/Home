@@ -33,8 +33,9 @@ permalink: /experimento/0020/
 * Motor DC 3 a 6V.
 * Suporte para 2 pilhas AA.
 * Régua.
-* Latinha de alumínio.
 * Pistola + bastões de cola quente.
+* Latinha de alumínio.
+* (**opcional**) [Luvas](https://www.google.com/search?q=luva+pigmentada){:target="_blank"} para uso durante o processo de corte do alumínio.
 
 ## Como montar
 Antes de iniciar a montagem, assista todo o vídeo abaixo.
