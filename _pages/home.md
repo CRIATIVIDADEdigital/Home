@@ -16,22 +16,22 @@ feature_row:
   - image_path: /assets/images/vcmaker.png
     alt: "logo vcmaker"
     title: "VC.Maker"
-    excerpt: "Espaço dedicado aos alunos e professores participantes do VC.Maker edição 2018."
-    url: "/docs/aula01P1/"
+    excerpt: "Espaço dedicado aos alunos e professores participantes do VC.Maker."
+    url: "http://vcmaker.qmagico.com.br"
     btn_class: "btn--primary"
     btn_label: "Abrir Aulas"
   - image_path: /assets/images/vcmaker.png
     alt: "logo vcmaker"
     title: "VC.Maker"
-    excerpt: "Espaço dedicado aos alunos e professores participantes do VC.Maker edição 2018."
-    url: "/docs/aula01P1/"
+    excerpt: "Espaço dedicado aos alunos e professores participantes do VC.Maker."
+    url: "http://vcmaker.qmagico.com.br"
     btn_class: "btn--primary"
     btn_label: "Abrir Aulas"
   - image_path: /assets/images/vcmaker.png
     alt: "logo vcmaker"
     title: "VC.Maker"
-    excerpt: "Espaço dedicado aos alunos e professores participantes do VC.Maker edição 2018."
-    url: "/docs/aula01P1/"
+    excerpt: "Espaço dedicado aos alunos e professores participantes do VC.Maker."
+    url: "http://vcmaker.qmagico.com.br"
     btn_class: "btn--primary"
     btn_label: "Abrir Aulas"
 
