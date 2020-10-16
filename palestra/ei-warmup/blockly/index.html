@@ -47,13 +47,11 @@
 
       <div id="blocklyDiv" style="position: absolute"></div>
       <xml id="toolbox" style="display: none">
-        <block type="controls_repeat_ext">
-          <value name="TIMES">
-            <shadow type="math_number">
-              <field name="NUM">5</field>
-            </shadow>
-          </value>
-        </block>
+        <block type="avancar"></block>
+        <block type="esquerda"></block>
+        <block type="direita"></block>
+        <block type="repetir"></block>
+
       </xml>
 
 
@@ -62,6 +60,7 @@
 
  
   <script src="https://unpkg.com/blockly"></script>
+  <script src="scripts/blocos.js"></script>
   <script>
     var blocklyArea = document.getElementById('blocklyArea');
     var blocklyDiv = document.getElementById('blocklyDiv');
@@ -92,6 +91,7 @@
   <!--<script src="scripts/music_maker.js"></script>
   <script src="scripts/main.js"></script>
   <script src="scripts/music_maker.js"></script>-->
+
 
 </body>
 </html>
