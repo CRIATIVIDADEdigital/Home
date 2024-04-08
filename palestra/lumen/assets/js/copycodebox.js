@@ -1,10 +1,9 @@
 // Get all <pre> tags with the class myPreTag
 const preTags = document.querySelectorAll("#myPreTag");
 
-console.log(preTags);
 // Loop through each <pre> tag
 preTags.forEach(preTag => {
-  console.log(`Created copy button for <pre> `);
+
     // Create a copy button element
     const copyButton = document.createElement("spam");
     copyButton.innerText = "Copiar";
