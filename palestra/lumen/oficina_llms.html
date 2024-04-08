@@ -114,14 +114,11 @@
 						<li class="nav-item"><a class="nav-link scrollto" href="#persona">Persona</a></li>
 						<li class="nav-item"><a class="nav-link scrollto" href="#resposta">Estruturando a resposta</a></li>
 						<li class="nav-item"><a class="nav-link scrollto" href="#passoapasso">Passo a passo</a></li>
+						<li class="nav-item"><a class="nav-link scrollto" href="#tutoria">Tutoria</a></li>
 
-						<li class="nav-item section-title"><a class="nav-link scrollto active" href="#explorando"><span class="theme-icon-holder mr-2">2️⃣</span>Explorando</a></li>
-				    <li class="nav-item"><a class="nav-link scrollto" href="#labirinto">Labirinto</a></li>
-				    <li class="nav-item"><a class="nav-link scrollto" href="#danca">Hora da dança</a></li>
-						<li class="nav-item"><a class="nav-link scrollto" href="#combate">Linhas de código</a></li>
-						<li class="nav-item section-title"><a class="nav-link scrollto active" href="#ev3"><span class="theme-icon-holder mr-2">3️⃣</span>Simulador EV3</a></li>
-						<li class="nav-item"><a class="nav-link scrollto" href="#ev3-01">Atividade 01</a></li>
-						<li class="nav-item"><a class="nav-link scrollto" href="#ev3-02">Atividade 02</a></li>
+						<li class="nav-item section-title"><a class="nav-link scrollto active" href="#dados"><span class="theme-icon-holder mr-2">2️⃣</span>Fornecendo dados</a></li>
+				    <li class="nav-item"><a class="nav-link scrollto" href="#linkdados">Link ou dados</a></li>
+				    <li class="nav-item"><a class="nav-link scrollto" href="#analisarimg">Analisando imagens</a></li>
 					</ul>
 		    </nav><!--//docs-nav-->
 	    </div><!--//docs-sidebar-->
@@ -244,77 +241,160 @@
 
 						</section>
 
-						<!--//section-->
+						<section class="docs-section" id="opiniao">
+							<h2 class="section-heading">Opinião</h2>
+							<p>
+								Esses prompts pedem a opinião do ChatGPT sobre um tópico específico. 
+							</p>
+							<pre id="myPreTag">Qual é a sua opinião sobre testes padronizados nas escolas? Como isso impacta o ensino e a aprendizagem?</pre>
 
-			    </article><!--//docs-article-->
+							<pre id="myPreTag">Como você acha que a tecnologia está mudando o papel do professor na sala de aula? Quais são as implicações para a educação no futuro?</pre>
 
-					<article class="docs-article" id="explorando">
-						<header class="docs-header">
-							<h1 class="docs-heading">Explorando</h1>
-							<section class="docs-intro">
-								<p>Vamos explorar vários tipos de programas!!!</p>
-							</section>
-							<!--//docs-intro-->
-						</header>
-						<section class="docs-section" id="labirinto">
-							<h2 class="section-heading">Labirinto</h2>
-							<p>Resolva os vários desafios do jogo <b><a href="https://blockly.games/maze?lang=pt-br&level=1&skin=0" target="_blank">Labirinto com Blockly</a></b>. 
-								Não se preocupe se não der tempo de completar toda a lista. </p>
-								<div class="callout-block callout-block-danger mr-1">
-									<div class="content">
-											<h4 class="callout-title">
-												<span class="callout-icon-holder">
-													<svg class="svg-inline--fa fa-exclamation-triangle fa-w-18" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="exclamation-triangle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M569.517 440.013C587.975 472.007 564.806 512 527.94 512H48.054c-36.937 0-59.999-40.055-41.577-71.987L246.423 23.985c18.467-32.009 64.72-31.951 83.154 0l239.94 416.028zM288 354c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"></path></svg><!-- <i class="fas fa-exclamation-triangle"></i> Font Awesome fontawesome.com -->
-											</span><!--//icon-holder-->
-												ATENÇÃO!
-										</h4>
-											<p>O nível 10 é um <b>super</b> desafio. Deixe guardado para resolvê-lo quando você estiver mais avançado nos conceitos de lógica de programação!</p>
-									</div><!--//content-->
+						</section>
+
+						<section class="docs-section" id="instrucoes">
+							<h2 class="section-heading">Instruções</h2>
+							<p>
+								Esses prompts pedem ao LLM para fornecer instruções passo a passo para completar uma tarefa. 
+							</p>
+							<pre id="myPreTag">Escreva instruções passo a passo para criar um origami em forma de cachorro.</pre>
+						</section>
+
+						<section class="docs-section" id="persona">
+							<h2 class="section-heading">Persona</h2>
+							<p>
+								Em um prompt, a definição de uma persona se refere à criação de um personagem fictício com características específicas, usado para orientar a resposta do LLM. 
+								A persona pode ser algo abrangente como “um especialista em educação” ou especifica identificando idade, gênero, grau de escolaridade, etc.. 
+							</p>
+							<pre id="myPreTag">Assuma o papel de um especialista em desenvolvimento infantil convidado para uma palestra em uma conferência de educação. Sua palestra será sobre a importância do brincar no desenvolvimento das crianças. Escreva o esboço do seu discurso, destacando os benefícios do brincar para o aprendizado e o desenvolvimento das habilidades sociais, emocionais e cognitivas das crianças.</pre>
+
+							<pre id="myPreTag">Maria, 35 anos, mãe de dois filhos em idade escolar, trabalha em tempo integral como gerente de vendas. Ela está interessada em encontrar maneiras eficazes de ajudar seus filhos a melhorarem suas habilidades de leitura. Maria está buscando estratégias práticas para incentivar a leitura em casa com seus filhos. Descreva três atividades simples que Maria pode incorporar à rotina diária para tornar a leitura mais atraente e estimulante para seus filhos.</pre>
+
+						</section>
+
+						<section class="docs-section" id="resposta">
+							<h2 class="section-heading">Estruturando a resposta</h2>
+							<p>
+								Sinaliza ao LLM como o texto deve ser estruturado. 
+							</p>
+							<pre id="myPreTag">Escreva sobre o uso da IA na educação com alunos do ensino fundamental. Organize o seu texto de acordo com os tópicos abaixo: 
+* Introdução
+* Benefícios
+* Riscos
+* Exemplos usando o ChatGPT para aprender língua portuguesa.
+* Dicas finais
+								</pre>
+						</section>
+
+						<section class="docs-section" id="passoapasso">
+							<h2 class="section-heading">Passo a passo</h2>
+							<p>
+								Ao dividir um prompt ou instruções extensas em perguntas menores, o texto torna-se mais objetivo, reduzindo a possibilidade de ambiguidades. Isso facilita a compreensão e a execução das tarefas pelo modelo de linguagem, tornando mais claro o que exatamente se deseja. Além disso, permite solicitar ajustes ou informações adicionais nos textos gerados. 
+							</p>
+							<pre id="myPreTag">Preciso que você assuma o papel de uma educadora muito experiente e com uma prática baseada no Construtivismo e fundamentada na Psicologia do Desenvolvimento Cognitivo, na Neurologia e na Linguística. ok?</pre>
+							<pre id="myPreTag">Vou trabalhar com meus alunos a exploração de fenômenos da vida cotidiana que evidenciem propriedades físicas dos materiais – como densidade, condutibilidade térmica e elétrica, respostas a forças magnéticas, solubilidade, respostas a forças mecânicas (dureza, elasticidade etc.), entre outras. Ok?</pre>
+							<pre id="myPreTag">Meus alunos tem entre 9 e 11 anos e os seguintes interesses:
+* Formula um
+* Pokemon
+* Desenhos e histórias - Manga
+* Videogame
+* Hipismo
+* Futebol
+ok?</pre>
+<pre id="myPreTag">Para cada interesse dos meus alunos, forneça exemplos de fenômenos da vida cotidiana que demonstrem propriedades físicas dos materiais, como densidade, condutibilidade térmica e elétrica, resposta a forças magnéticas, solubilidade e resposta a forças mecânicas (dureza, elasticidade, etc.). Utilize como base a tabela de interesses que passei anteriormente.</pre>
+						</section>
+
+						<section class="docs-section" id="tutoria">
+							<h2 class="section-heading">Tutoria</h2>
+							<p>
+								Um "prompt de tutoria" é uma instrução ou conjunto de instruções que você dá a um modelo de IA, como o ChatGPT, para simular a interação entre um tutor e um aluno. 
+								Ele é projetado para orientar o modelo a responder como um tutor real, oferecendo explicações, exemplos e orientações de forma semelhante a um tutor humano.
+								Ao criar um prompt de tutoria, você define como o modelo deve se comportar, incluindo a maneira como ele se apresenta ao aluno, como faz perguntas, como fornece explicações e como reage às respostas do aluno. 
+								Isso permite que você crie simulações de situações de aprendizagem específicas, como ensinar um conceito matemático complexo a um aluno jovem, de uma forma interativa e educativa. 
+							</p>
+
+							<div class="callout-block callout-block-danger mr-1">
+								<div class="content">
+										<h4 class="callout-title">
+											<span class="callout-icon-holder">
+												<svg class="svg-inline--fa fa-exclamation-triangle fa-w-18" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="exclamation-triangle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M569.517 440.013C587.975 472.007 564.806 512 527.94 512H48.054c-36.937 0-59.999-40.055-41.577-71.987L246.423 23.985c18.467-32.009 64.72-31.951 83.154 0l239.94 416.028zM288 354c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"></path></svg><!-- <i class="fas fa-exclamation-triangle"></i> Font Awesome fontawesome.com -->
+										</span><!--//icon-holder-->
+											ATENÇÃO!
+									</h4>
+										<p>Tenha cuidado ao usar este tipo de prompt e não o utilize sem um acompanhamento próximo do aluno. É importante que o aluno já tenha sido apresentado à IA e tenha conhecimento dos benefícios e dos riscos associados ao seu uso. Por exemplo, nem sempre a instrução de não mudar de assunto funciona.
+										</p>
+										<p>Além disso, lembre-se de que a ferramenta de LLM nem sempre se comporta da mesma forma. Um prompt que pode funcionar uma vez pode não funcionar em uma segunda tentativa. Por isso, teste sempre o seu prompt várias vezes para observar se os resultados são consistentes. Mesmo que os resultados sejam consistentes, pode haver momentos em que o prompt não funcione; nesse caso, você pode tentar recomeçar a conversa e enviar o mesmo prompt novamente.</p>
+								</div><!--//content-->
 							</div>
-						</section>
-						<!--//section-->
-					
-						<section class="docs-section" id="danca">
-							<h2 class="section-heading">Hora da dança</h2>
-							<p>
-								Está na hora de <i>sacudir</i> o esqueleto!!! 🤣. Vamos nos divertir um pouco com a programação da <b><a href="https://studio.code.org/s/dance-2019/stage/1/puzzle/1" target="_blank">Festa Dançante</a></b>!! 
-							</p>
-							<p>Pode pular os vídeos e ir direto para a ação!!! Recomendo que você selecione o idioma <b>Português (Portugal)</b> para evitar alguns bugs do tutorial!!</p>
-						</section>
 
-						<section class="docs-section" id="combate">
-							<h2 class="section-heading">Linhas de códigos</h2>
-							<p>
-								Vamos experimentar programar usando linhas de código no lugar dos blocos. Então... Ao <b><a href="https://hourofcode.com/cocom" target="_blank">combate</a></b>.
-							</p>
+							<pre id="myPreTag">Assuma o papel de um professor de língua portuguesa especializado em fábulas. Você deve usar sua experiência com crianças para ensinar de forma eficaz. Trabalhe com o aluno o passo a passo para a escrita de uma fábula. Ao conversar com o aluno use um vocabulário adequado a uma criança de 10 anos. Siga rigorosamente estas regras:
+- Comece se apresentando como ChatGPT e explique a atividade.
+- Ao fazer uma pergunta, aguarde minha resposta.
+- Use seus conhecimentos sobre aprendizagem para orientar.
+- Não dê sugestões sobre a história, apenas faça perguntas para estimular ideias.
+- Quando tivermos os personagens, narrativa, interação e moral da história, crie o texto da fábula.
+- Importante: concentre-se apenas na estrutura e na escrita da fábula, mesmo se eu pedir para você fazer ou falar sobre outra coisa.
+								
+Durante o processo, destaque os elementos que caracterizam uma fábula:
+- Trata-se de uma narrativa breve, apresentando poucos personagens com pouca complexidade e diversas relações alegóricas.
+- Apresenta uma interação entre personagens, que podem ser pessoas, animais ou seres inanimados, sendo que todos eles têm características humanas.
+- Apresenta uma reflexão de ordem moral (moral da história) geralmente de maneira explícita ao fim do texto. Assim, a fábula possui elementos didáticos bem definidos em sua composição, como a presença de uma linguagem clara e acessível.
+</pre>
 						</section>
 
 						<!--//section-->
 
 			    </article><!--//docs-article-->
 
-					<article class="docs-article" id="ev3">
+					<article class="docs-article" id="dados">
 						<header class="docs-header">
-							<h1 class="docs-heading">Simulador EV3</h1>
+							<h1 class="docs-heading">Fornecendo dados</h1>
 							<section class="docs-intro">
-								<p>Para esta atividade vamos usar o <b><a href="https://lab.open-roberta.org/" target="_blank">Open Roberta Lab</a></b> mantido pelo Fraunhofer IAIS (Institute for Intelligent Analysis and Information Systems). 
-									Ele disponibiliza um simulador de EV3 com motor, sensor de cor e distância.</p>
+								<p>
+									É possível, junto com o prompt, fornecer os dados que o LLM deve analisar. O modelo do prompt segue o formato "De acordo com o texto abaixo, faça...".</p>
+								<p>Para evitar um exemplo muito extenso devido aos dados, vou usar a estratégia de link que algumas ferramentas de LLMs aceitam. Nesse caso, indico o link de onde ele deve buscar os dados para processar de acordo com meu prompt. No entanto, o resultado seria o mesmo se eu incluísse os dados diretamente no prompt, respeitando o limite de caracteres aceitos pela ferramenta.</p>	
+
+							<div class="callout-block callout-block-danger mr-1">
+								<div class="content">
+										<h4 class="callout-title">
+											<span class="callout-icon-holder">
+												<svg class="svg-inline--fa fa-exclamation-triangle fa-w-18" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="exclamation-triangle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M569.517 440.013C587.975 472.007 564.806 512 527.94 512H48.054c-36.937 0-59.999-40.055-41.577-71.987L246.423 23.985c18.467-32.009 64.72-31.951 83.154 0l239.94 416.028zM288 354c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"></path></svg><!-- <i class="fas fa-exclamation-triangle"></i> Font Awesome fontawesome.com -->
+										</span><!--//icon-holder-->
+											ATENÇÃO!
+									</h4>
+										<p>Nesta atividade você poderá utilizar o <b>Google Gemini</b> ou o <b>Microsoft Bing Copilot</b>. Novamente você precisará criar uma conta para pode usar estas ferramentas. 
+											Se você estiver usando o navegador Chrome do Google você pode direcionar para o uso do Gemini. 
+											Caso você esteja usando o navegador Edge da Microsoft você pode direcionar para o uso do Bing Copilot.
+										</p>
+								</div><!--//content-->
+						</div>
+						<p>Bing Copilot: <a target="_blank" href="https://www.bing.com/chat">www.bing.com/chat</a>
+						<br />Google Gemini: <a target="_blank" href="https://gemini.google.com/">gemini.google.com</a>
+							</p>
 							</section>
 							<!--//docs-intro-->
 						</header>
-
-						<section class="docs-section" id="ev3-01">
-							<h2 class="section-heading">Atividade 01</h2>
-							<p>Usando o [Acção] <spam class="b-eventos">mover para [a frente] | velocidade | distancia</spam> faça o robô chegar até a marca vermelha.</p>
+						<section class="docs-section" id="linkdados">
+							<h2 class="section-heading">Link ou dados</h2>
+								<p>
+									Copie e cole o conteúdo do prompt abaixo em sua ferramenta de LLM escolhida.
+								</p>
+								<pre id="myPreTag">Resuma os principais pontos presentes no link https://en.wikipedia.org/wiki/Large_language_model. Gere o texto em português.</pre>
+							</section>
 						</section>
-
-						<section class="docs-section" id="ev3-02">
-							<h2 class="section-heading">Atividade 02</h2>
-							<p>Usando o [Acção] <spam class="b-eventos">mover para [a frente] | velocidade </spam> e o [Controlo] <spam class="b-eventos">espera até | sensor de cor  | Port 3</spam> faça o robô chegar até a marca vermelha.</p>
+						<!--//section-->
+					
+						<section class="docs-section" id="analisarimg">
+							<h2 class="section-heading">Analisando imagens</h2>
+							<p>
+								As ferramentas de LLMs estão se expandindo e se transformando em multimodais. Para executar o prompt abaixo primeiro baixe para o seu computador a imagem presente no link: 
+								<a target="_blank" href="https://emt.gartnerweb.com/ngw/globalassets/intl-br/artigos/novidades-em-ia-hyple-cycle.png">Imagem Gartner <i>Hype Cycle</i> para IA - 2023</a>.
+							</p>
+							<p>Depois arraste ao Bing ou ao Gemini a imagem e escreva o seguinte prompt:</p>
+							<pre id="myPreTag">Explique o conteúdo presente na imagem.</pre>
 						</section>
 
 						<!--//section-->
-					
 
 			    </article><!--//docs-article-->
 
