@@ -2,21 +2,6 @@ O erro `Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')`
 
 Para corrigir isso, certifique-se de que o elemento com o ID `content` está presente no seu HTML. Você pode fazer isso adicionando um elemento `<div>` com o ID `content` no corpo do seu documento HTML, antes do script que tenta acessá-lo. Aqui está um exemplo corrigido:
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Minha Página</title>
-</head>
-<body>
-  <div id="content"></div>
-  <script type="module">
-    import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
-    document.getElementById('content').innerHTML =
-      marked.parse('# Marked in the browser\n\nRendered by **marked**.');
-  </script>
-</body>
-</html>
-```
+
 
 Certifique-se de que o elemento `<div>` com o ID `content` está presente antes de tentar acessá-lo no seu script. Isso deve resolver o erro e permitir que o texto seja renderizado corretamente.
