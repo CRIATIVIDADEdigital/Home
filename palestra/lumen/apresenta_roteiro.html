@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Página</title>
+</head>
+<body>
+  <div id="content"></div>
+  <script type="module">
+  // Fetch the text file
+  fetch('roteiro_profs/roteiro01.txt')
+    .then(response => response.text())
+    .then(text => {
+      // Create a variable with the file content
+      const fileContent = text;
+
+      // Pass the file content to the marked.parse function
+      document.getElementById('content').innerHTML = marked.parse(fileContent);
+    })
+    .catch(error => console.error('Error:', error));
+  </script>
+</body>
+</html>
+
+
