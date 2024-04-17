@@ -29,9 +29,12 @@
         // Create a variable with the file content
         const fileContent = text;
 
-        // Pass the file content to the marked.parse function
-        console.log(fileContent)
-        document.getElementById('content').innerHTML = marked.parse(fileContent);
+        if (str.includes("Jekyl")) { //página padrão de erro 404 atual do site
+          document.getElementById('content').innerHTML = marked.parse("Não existe este roteiro.");
+        } else {
+          // Pass the file content to the marked.parse function
+          document.getElementById('content').innerHTML = marked.parse(fileContent);
+        }
       })
       .catch(error => {
         console.error('Error:', error);
