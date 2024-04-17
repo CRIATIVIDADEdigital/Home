@@ -33,7 +33,11 @@
         console.log(fileContent)
         document.getElementById('content').innerHTML = marked.parse(fileContent);
       })
-      .catch(error => console.error('Error:', error));
+      .catch(error => {
+        console.error('Error:', error);
+        document.getElementById('content').innerHTML = marked.parse("Não existe este roteiro.");
+      })
+
       function getParameterByName(name, url) {
         if (!url) url = window.location.href;
         name = name.replace(/[\[\]]/g, '\\$&');
