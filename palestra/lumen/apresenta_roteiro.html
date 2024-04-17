@@ -39,9 +39,12 @@
 
   <div id="content"></div>
   <script type="module">
+    // Obter o valor do parâmetro 'id'
+    var id = getParameterByName('id');
+
     import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
     // Fetch the text file
-    fetch('roteiro_profs/roteiro03.txt')
+    fetch('roteiro_profs/roteiro_' + id + '.txt')
       .then(response => response.text())
       .then(text => {
         // Create a variable with the file content
@@ -52,6 +55,16 @@
         document.getElementById('content').innerHTML = marked.parse(fileContent);
       })
       .catch(error => console.error('Error:', error));
+      function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+      }
+
   </script>
 </body>
 </html>
