@@ -3,7 +3,7 @@
 À medida que tecnologias emergentes como a inteligência artificial (IA) se tornam mais prevalentes, nossa escola está proativamente desenvolvendo princípios para orientar o uso seguro, eficaz e responsável dessas ferramentas para a aprendizagem dos alunos. Após cuidadosa consideração, estabelecemos os seguintes princípios:
 
 1. **Apoiar Metas Educacionais para Todos:** A IA será utilizada de forma ponderada para melhorar os resultados de todos os alunos.
-2. **Privacidade e Segurança: O uso de IA estará alinhado com regulamentações que protegem a privacidade, segurança e acessibilidade dos dados dos alunos.
+2. **Privacidade e Segurança:** O uso de IA estará alinhado com regulamentações que protegem a privacidade, segurança e acessibilidade dos dados dos alunos.
 3. **Alfabetização em IA:** Alunos e professores desenvolverão habilidades para avaliar criticamente e utilizar tecnologias de IA de forma ética.
 4. **Realizar Benefícios e Abordar Riscos:** Vamos explorar cautelosamente os benefícios da IA, ao mesmo tempo em que abordamos proativamente os riscos.
 5. **Integridade Acadêmica:** Os alunos produzirão trabalhos originais e creditarão corretamente as fontes, incluindo as ferramentas de IA.
