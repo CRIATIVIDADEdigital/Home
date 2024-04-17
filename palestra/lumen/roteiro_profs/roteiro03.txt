@@ -1,9 +1,0 @@
-Se o conteúdo que você copiou parece estar mais no formato Markdown do que em HTML, você pode precisar convertê-lo para HTML antes de inseri-lo em um arquivo HTML. Aqui estão algumas maneiras de fazer isso:
-
-1. **Online Markdown para HTML Converter:** Use uma ferramenta online para converter o texto Markdown em HTML. Você pode encontrar várias opções ao pesquisar por "Markdown to HTML converter" em um mecanismo de busca.
-
-2. **Utilize um editor de texto com suporte a Markdown:** Alguns editores de texto, como o Visual Studio Code, têm extensões que permitem visualizar e converter Markdown em HTML.
-
-3. **Use um serviço de nuvem:** Se você tiver acesso a serviços de nuvem, como o Google Docs, pode colar o texto Markdown lá e exportá-lo como HTML.
-
-Depois de converter o texto Markdown para HTML, você pode copiá-lo e colá-lo em um arquivo HTML, entre as tags `<body>` e `</body>`, como mencionado anteriormente.

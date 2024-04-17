@@ -29,7 +29,7 @@
         // Create a variable with the file content
         const fileContent = text;
 
-        if (str.includes("Jekyl")) { //página padrão de erro 404 atual do site
+        if (fileContent.includes("Jekyl")) { //página padrão de erro 404 atual do site
           document.getElementById('content').innerHTML = marked.parse("Não existe este roteiro.");
         } else {
           // Pass the file content to the marked.parse function
