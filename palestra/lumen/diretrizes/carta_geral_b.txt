@@ -37,8 +37,6 @@ Os professores serão incentivados a utilizar a IA para personalizar o ensino de
 **Uso pelos Alunos:**
 Os alunos serão orientados sobre o uso ético e responsável da IA, especialmente quando utilizando dispositivos próprios fora do ambiente escolar, e serão incentivados a aplicar o conhecimento adquirido de forma positiva e construtiva.
 
-**Uso pelos Alunos:**
-
 1. **Proteção de Dados:** Os alunos devem proteger suas informações pessoais e senhas ao utilizar a IA, evitando compartilhá-las com terceiros e notificando imediatamente a escola em caso de acesso não autorizado.
 
 2. **Uso Responsável:** Os alunos devem utilizar a IA de forma responsável, respeitando os direitos e a privacidade de outras pessoas, e evitando a disseminação de informações falsas ou prejudiciais.
@@ -53,8 +51,6 @@ Os alunos serão orientados sobre o uso ético e responsável da IA, especialmen
 
 7. **Uso de Dispositivos Pessoais:** Ao utilizar dispositivos pessoais para atividades escolares, os alunos devem garantir que esses dispositivos estejam em conformidade com as políticas de segurança e privacidade da escola, e devem seguir as orientações fornecidas pelos professores sobre o uso da IA nessas situações.
 
-Essas regras ajudam a orientar os alunos sobre o uso ético e responsável da IA na escola, destacando a importância de proteger dados, agir de forma ética, manter a segurança cibernética e seguir as orientações dos professores.
-
 **Uso da IA com Crianças até 12 Anos de Idade:**
 
 1. **Supervisão Adequada:** A escola vai supervisionar de forma especial a utilização da IA por crianças até 12 anos de idade, garantindo que a interação com a tecnologia seja segura, adequada à idade e em conformidade com a política de uso das ferramentas.
@@ -66,8 +62,6 @@ Essas regras ajudam a orientar os alunos sobre o uso ético e responsável da IA
 5. **Conteúdo Apropriado à Idade:** O conteúdo apresentado pela IA será adequado à idade e ao desenvolvimento das crianças, promovendo valores positivos e respeitando a diversidade cultural.
 
 6. **Interação Supervisionada:** A interação das crianças com a IA será supervisionada por um adulto responsável, que irá auxiliar na compreensão das atividades, garantir um uso saudável da tecnologia e evitar que ela informe seus dados pessoais.
-
-Essas diretrizes garantem que a utilização da IA com crianças até 12 anos de idade na escola seja segura, educativa e adequada ao seu desenvolvimento, seguindo as melhores práticas recomendadas.
 
 **Avaliação e Monitoramento:**
 Serão estabelecidos procedimentos para avaliar o impacto da IA no aprendizado e no ambiente escolar, visando aprimorar continuamente o uso da IA para melhorar a educação.
@@ -96,8 +90,6 @@ Serão implementadas medidas e diretrizes para garantir a proteção da privacid
 7. **Treinamento de Funcionários:** Os funcionários envolvidos no uso da IA serão treinados regularmente sobre as melhores práticas de segurança de dados e privacidade.
 
 8. **Política de Retenção de Dados:** Será estabelecida uma política de retenção de dados para garantir que os dados dos alunos sejam mantidos apenas pelo tempo necessário e sejam devidamente descartados quando não forem mais necessários.
-
-Essas medidas ajudarão a garantir que a escola esteja em conformidade com as leis e regulamentos aplicáveis e proteja a privacidade e segurança dos dados dos alunos no contexto do uso da IA.
 
 **Revisão e Atualização:**
 Esta política será revisada anualmente para garantir sua atualização e adequação às mudanças nas práticas educacionais, tecnológicas e legislativas relacionadas ao uso da IA na escola.
