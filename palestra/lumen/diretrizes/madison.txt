@@ -1,3 +1,4 @@
+**Uso Adequado da Inteligência Artificial**
 As Escolas da Cidade de Madison reconhecem que a tecnologia está em constante evolução e tem um impacto significativo em nossa sociedade global, comunidade local e salas de aula. A inteligência artificial (IA), incluindo formas geradoras de IA, está se tornando cada vez mais presente em nosso cotidiano. É nossa responsabilidade educar e treinar os alunos para utilizar a IA de maneira ética e educacional. Portanto, as Escolas da Cidade de Madison não estão proibindo o uso de IA por alunos ou professores, mas cada aluno precisa estar ciente das limitações e diretrizes de seu uso:
 
 1. **Contas de e-mail e Chromebooks:** As contas de e-mail dos alunos das Escolas da Cidade de Madison e o acesso aos Chromebooks a softwares de IA abertos específicos, como ChatGPT, estão bloqueados devido a preocupações com dados e segurança.
