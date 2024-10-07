@@ -7,14 +7,14 @@ header:
 author_profile: false
 permalink: /experimento/0006/
 ---
-![Linha separadora](/assets/images/line.jpg)
+![Linha separadora]({{ site.baseurl }}/assets//images/line.jpg)
 
-![Spinner LED](/assets/experimentos/0006/thumb.jpg)
+![Spinner LED]({{ site.baseurl }}/assets//experimentos/0006/thumb.jpg)
 
 {% include toc %}
 
 ## Material
-![Materiais para a construção do pião](/assets/experimentos/0006/materiais.jpg)
+![Materiais para a construção do pião]({{ site.baseurl }}/assets//experimentos/0006/materiais.jpg)
 * 2 folhas de papel A4.
 * 1 Compasso.
 * 1 Lápis preto.

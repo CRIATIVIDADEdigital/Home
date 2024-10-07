@@ -7,16 +7,16 @@ header:
 author_profile: false
 permalink: /experimento/0008/
 ---
-![Linha separadora](/assets/images/line.jpg)
+![Linha separadora]({{ site.baseurl }}/assets//images/line.jpg)
 
-![Spinner LED](/assets/experimentos/0008/thumb.jpg)
+![Spinner LED]({{ site.baseurl }}/assets//experimentos/0008/thumb.jpg)
 
 {% include toc %}
 
 ## Material
-![Materiais para o Spinner LED](/assets/experimentos/0008/materiais.jpg)
+![Materiais para o Spinner LED]({{ site.baseurl }}/assets//experimentos/0008/materiais.jpg)
 * 4 folhas de papel A4 preta.
-* Folha impressa com as [imagens](/assets/experimentos/0008/imprimir_jardim.pdf) (pode ser um papel A4 branco para criar seus próprios desenhos).
+* Folha impressa com as [imagens]({{ site.baseurl }}/assets//experimentos/0008/imprimir_jardim.pdf) (pode ser um papel A4 branco para criar seus próprios desenhos).
 * 1 Lápis branco.
 * 1 Palito de churrasco
 * 1 Caneta marca texto amarela.

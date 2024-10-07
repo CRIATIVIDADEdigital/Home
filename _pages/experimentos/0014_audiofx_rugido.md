@@ -7,9 +7,9 @@ header:
 author_profile: false
 permalink: /experimento/0014/
 ---
-![Linha separadora](/assets/images/line.jpg)
+![Linha separadora]({{ site.baseurl }}/assets//images/line.jpg)
 
-![Onde de áudio](/assets/experimentos/0014/thumb.jpg)
+![Onde de áudio]({{ site.baseurl }}/assets//experimentos/0014/thumb.jpg)
 
 {% include toc %}
 

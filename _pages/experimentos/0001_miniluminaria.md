@@ -7,14 +7,14 @@ header:
 author_profile: false
 permalink: /experimento/0001/
 ---
-![Linha separadora](/assets/images/line.jpg)
+![Linha separadora]({{ site.baseurl }}/assets//images/line.jpg)
 
-![Mini luminaria emoticon fantasma](/assets/experimentos/0001/thumb.jpg)
+![Mini luminaria emoticon fantasma]({{ site.baseurl }}/assets//experimentos/0001/thumb.jpg)
 
 {% include toc %}
 
 ## Materiais
-![Materiais para a mini luminaria EMOTICON fantasma](/assets/experimentos/0001/materiais.jpg)
+![Materiais para a mini luminaria EMOTICON fantasma]({{ site.baseurl }}/assets//experimentos/0001/materiais.jpg)
 * 4 Copinhos descartáveis 50 ml. 
   * :exclamation: Utilize os que têm ranhuras horizontais para facilitar o desenho.
 * 1 Caneta permanente para plástico preta.
