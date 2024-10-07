@@ -7,14 +7,14 @@ header:
 author_profile: false
 permalink: /experimento/0020/
 ---
-![Linha separadora](/assets/images/line.jpg)
+![Linha separadora]({{ site.baseurl }}/assets//images/line.jpg)
 
-![Carrinho propulsão elástica](/assets/experimentos/0020/thumb.jpg)
+![Carrinho propulsão elástica]({{ site.baseurl }}/assets//experimentos/0020/thumb.jpg)
 
 {% include toc %}
 
 ## Material
-![Materiais para a construção do pião](/assets/experimentos/0020/materiais.jpg)
+![Materiais para a construção do pião]({{ site.baseurl }}/assets//experimentos/0020/materiais.jpg)
 * 1 Retângulo de papelão ondulado (base de apoio para furar).
 * Garrafa PET média (~500 a 600 ml).
 * 4 tampinhas de garrafa PET.
@@ -92,7 +92,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
 1. Preparando a hélice.
    1. Com a ajuda do compasso (furos iniciais) e da tesoura, [abra a latinha de alumínio](https://youtu.be/GEP9kQSj5HE?t=15m05s){:target="_blank"}.
    1. Use a caneta/marcador permanente e [desenhe na parte interna da latinha o diagrama abaixo](https://youtu.be/GEP9kQSj5HE?t=16m53s){:target="_blank"}. Veja no vídeo que usamos a moeda de 1 Real para desenhar as circunferências.<br>
-   ![Diagrama de referência para o recorte da helice](/assets/experimentos/0020/diagrama_para_helice.png)
+   ![Diagrama de referência para o recorte da helice]({{ site.baseurl }}/assets//experimentos/0020/diagrama_para_helice.png)
    1. [Fure o alumínio no ponto central indicado no diagrama](https://youtu.be/GEP9kQSj5HE?t=20m45s){:target="_blank"}.
       1. Você pode iniciar o furo usando o compasso e complementando com a chave phillips pequena. O furo deve ser pequeno, com tamanho suficiente para [encaixar a hélice no motor DC](https://youtu.be/GEP9kQSj5HE?t=21m19s){:target="_blank"}.
    1. [Recorte o alumínio](https://youtu.be/GEP9kQSj5HE?t=21m30s){:target="_blank"} seguindo as linhas de contorno do diagrama.
@@ -104,7 +104,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
       1. Se as pilhas, cabinhos e botão liga/desliga estão funcionando.
       1. Se a hélice está bem presa ao motor.
       1. Caso o motor não funcione:
-         1. Verifique se o botão está na posição ligado.![Botão na posição ligado](/assets/experimentos/0020/botao_ligado.jpg)
+         1. Verifique se o botão está na posição ligado.![Botão na posição ligado]({{ site.baseurl }}/assets//experimentos/0020/botao_ligado.jpg)
          1. Experimente trocar as pilhas.
          1. Refaça as conexões dos cabos flexíveis. Veja nas dicas [como retirar a cola do botão liga/desliga](#dica-descolar-fio).
          1. O ideal neste caso é utilizar um multímetro para verificar os problemas no sistema (veja as [dicas](#dica-multimetro) no final deste roteiro). 
@@ -117,7 +117,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
       1. [Acrescente mais um palito de sorvete ao chassis](https://youtu.be/GEP9kQSj5HE?t=28m49s){:target="_blank"}. Logo após, [cole o suporte das pilhas](https://youtu.be/GEP9kQSj5HE?t=29m28s){:target="_blank"} nele.
       1. Deixe as últimas colagens secarem por, pelo menos, 30s.
 1. Conectando as pilhas ao motor DC.
-   1. Primeiro, [verifique se o sistema pilhas + cabo + motor](https://youtu.be/GEP9kQSj5HE?t=29m49s){:target="_blank"} ainda está funcionando. Lembre-se de acionar o botão liga/desliga.![Botão na posição ligado](/assets/experimentos/0020/botao_ligado.jpg)
+   1. Primeiro, [verifique se o sistema pilhas + cabo + motor](https://youtu.be/GEP9kQSj5HE?t=29m49s){:target="_blank"} ainda está funcionando. Lembre-se de acionar o botão liga/desliga.![Botão na posição ligado]({{ site.baseurl }}/assets//experimentos/0020/botao_ligado.jpg)
    1. Aproveite o teste acima e [marque com a caneta a direção](https://youtu.be/GEP9kQSj5HE?t=30m08s){:target="_blank"} em que a hélice gira. Ao marcar a direção da hélice, não se esqueça de marcar também o posionamento dos cabos conectados ao motor. Se você inverter os cabos, o motor irá girar no sentido contrário.
    1. Prenda os cabinhos das pilhas e do botão liga/desligas nos [dois conectores do motor](https://youtu.be/GEP9kQSj5HE?t=30m23s){:target="_blank"}.
       1. Deixe o botão liga/desliga na posição "desligado" para facilitar o processo.
@@ -129,7 +129,7 @@ Com o material em mãos, organize o seu grupo de trabalho e mãos à obra! :smil
       1. Se o motor funcionar, [reforce a cola](https://youtu.be/GEP9kQSj5HE?t=33m14s){:target="_blank"} para evitar que durante a manipulação do carrinho o fio acabe se desconectando.
    1. Deixe as últimas colagens secarem por, pelo menos, 30s.
 1. Respeitando a direção em que a hélice gira, [dobre para que](https://youtu.be/GEP9kQSj5HE?t=33m52s){:target="_blank"}, ao girar, o ar seja deslocado para a parte de trás do carrinho. Procure fazer as dobras no alumínio simulando o formato de uma hélice.<br>
-![Helice de referencia](/assets/experimentos/0020/single_propeller.png)
+![Helice de referencia]({{ site.baseurl }}/assets//experimentos/0020/single_propeller.png)
 1. Para concluir, [cole o botão liga/desliga na lateral](https://youtu.be/GEP9kQSj5HE?t=36m13s){:target="_blank"} do fundo da garrafa PET.
 1. Pronto! Aguarde um minuto para que a cola endureça, ligue o motor e divirta-se com o [seu carrinho](https://youtu.be/GEP9kQSj5HE?t=36m34s){:target="_blank"}. :wink:
 
